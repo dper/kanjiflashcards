@@ -8,13 +8,7 @@ The script `cardmaker.rb` is licensed under the GPL v3.0.  The resultant flashca
 
 
 
-* kanjidic2.xml:
-:* Retrieved 2011-02-21.
-::* <http://www.csse.monash.edu.au/~jwb/kanjidic2/>
-::* <http://www.csse.monash.edu.au/~jwb/kanjidic2/kanjidic2.xml.gz>
-:* Copyright by The Electronic Dictionary Research and Development Group.
-:* Available under Creative Commons Share Alike-Attribution 3.0 License.
-::* <http://creativecommons.org/licenses/by-sa/3.0/>
+* `kanjidic2.xml`. Retrieved 2016-03-18. [http://www.csse.monash.edu.au/~jwb/kanjidic2/] [http://www.csse.monash.edu.au/~jwb/kanjidic2/kanjidic2.xml.gz]. Copyright by The Electronic Dictionary Research and Development Group. Available under [Creative Commons Share Alike-Attribution 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/).
 
 edict.txt:
 - Retrieved 2011-02-21.
