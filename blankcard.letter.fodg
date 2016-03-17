@@ -1,0 +1,2147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0"
+                 xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0"
+                 xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0"
+                 xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0"
+                 xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0"
+                 xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:dc="http://purl.org/dc/elements/1.1/"
+                 xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0"
+                 xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0"
+                 xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0"
+                 xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0"
+                 xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0"
+                 xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0"
+                 xmlns:math="http://www.w3.org/1998/Math/MathML"
+                 xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0"
+                 xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0"
+                 xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0"
+                 xmlns:ooo="http://openoffice.org/2004/office"
+                 xmlns:ooow="http://openoffice.org/2004/writer"
+                 xmlns:oooc="http://openoffice.org/2004/calc"
+                 xmlns:dom="http://www.w3.org/2001/xml-events"
+                 xmlns:xforms="http://www.w3.org/2002/xforms"
+                 xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0"
+                 xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0"
+                 xmlns:rpt="http://openoffice.org/2005/report"
+                 xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2"
+                 xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                 xmlns:grddl="http://www.w3.org/2003/g/data-view#"
+                 xmlns:officeooo="http://openoffice.org/2009/office"
+                 xmlns:tableooo="http://openoffice.org/2009/table"
+                 xmlns:drawooo="http://openoffice.org/2010/draw"
+                 xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0"
+                 xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0"
+                 xmlns:css3t="http://www.w3.org/TR/css3-text/"
+                 office:version="1.2"
+                 grddl:transformation="http://docs.oasis-open.org/office/1.2/xslt/odf2rdf.xsl"
+                 office:mimetype="application/vnd.oasis.opendocument.graphics">
+   <office:meta>
+      <meta:creation-date>2011-02-23T21:55:44</meta:creation-date>
+      <dc:date>2011-02-23T22:21:21</dc:date>
+      <meta:editing-duration>PT25M38S</meta:editing-duration>
+      <meta:editing-cycles>4</meta:editing-cycles>
+      <meta:generator>LibreOffice/3.3$Win32 LibreOffice_project/330m19$Build-202</meta:generator>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <meta:document-statistic meta:object-count="146"/>
+   </office:meta>
+   <office:settings>
+      <config:config-item-set config:name="ooo:view-settings">
+         <config:config-item config:name="VisibleAreaTop" config:type="int">6770</config:config-item>
+         <config:config-item config:name="VisibleAreaLeft" config:type="int">-334</config:config-item>
+         <config:config-item config:name="VisibleAreaWidth" config:type="int">22232</config:config-item>
+         <config:config-item config:name="VisibleAreaHeight" config:type="int">11458</config:config-item>
+         <config:config-item-map-indexed config:name="Views">
+            <config:config-item-map-entry>
+               <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
+               <config:config-item config:name="GridIsVisible" config:type="boolean">false</config:config-item>
+               <config:config-item config:name="GridIsFront" config:type="boolean">false</config:config-item>
+               <config:config-item config:name="IsSnapToGrid" config:type="boolean">true</config:config-item>
+               <config:config-item config:name="IsSnapToPageMargins" config:type="boolean">true</config:config-item>
+               <config:config-item config:name="IsSnapToSnapLines" config:type="boolean">false</config:config-item>
+               <config:config-item config:name="IsSnapToObjectFrame" config:type="boolean">false</config:config-item>
+               <config:config-item config:name="IsSnapToObjectPoints" config:type="boolean">false</config:config-item>
+               <config:config-item config:name="IsPlusHandlesAlwaysVisible" config:type="boolean">false</config:config-item>
+               <config:config-item config:name="IsFrameDragSingles" config:type="boolean">true</config:config-item>
+               <config:config-item config:name="EliminatePolyPointLimitAngle" config:type="int">1500</config:config-item>
+               <config:config-item config:name="IsEliminatePolyPoints" config:type="boolean">false</config:config-item>
+               <config:config-item config:name="VisibleLayers" config:type="base64Binary">//////////////////////////////////////////8=</config:config-item>
+               <config:config-item config:name="PrintableLayers" config:type="base64Binary">//////////////////////////////////////////8=</config:config-item>
+               <config:config-item config:name="LockedLayers" config:type="base64Binary"/>
+               <config:config-item config:name="NoAttribs" config:type="boolean">false</config:config-item>
+               <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
+               <config:config-item config:name="RulerIsVisible" config:type="boolean">true</config:config-item>
+               <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
+               <config:config-item config:name="SelectedPage" config:type="short">2</config:config-item>
+               <config:config-item config:name="IsLayerMode" config:type="boolean">true</config:config-item>
+               <config:config-item config:name="IsBigHandles" config:type="boolean">true</config:config-item>
+               <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
+               <config:config-item config:name="IsClickChangeRotation" config:type="boolean">false</config:config-item>
+               <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
+               <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
+               <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
+               <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
+               <config:config-item config:name="VisibleAreaTop" config:type="int">7452</config:config-item>
+               <config:config-item config:name="VisibleAreaLeft" config:type="int">-375</config:config-item>
+               <config:config-item config:name="VisibleAreaWidth" config:type="int">22535</config:config-item>
+               <config:config-item config:name="VisibleAreaHeight" config:type="int">12150</config:config-item>
+               <config:config-item config:name="GridCoarseWidth" config:type="int">1270</config:config-item>
+               <config:config-item config:name="GridCoarseHeight" config:type="int">1270</config:config-item>
+               <config:config-item config:name="GridFineWidth" config:type="int">635</config:config-item>
+               <config:config-item config:name="GridFineHeight" config:type="int">635</config:config-item>
+               <config:config-item config:name="GridSnapWidthXNumerator" config:type="int">635</config:config-item>
+               <config:config-item config:name="GridSnapWidthXDenominator" config:type="int">1</config:config-item>
+               <config:config-item config:name="GridSnapWidthYNumerator" config:type="int">635</config:config-item>
+               <config:config-item config:name="GridSnapWidthYDenominator" config:type="int">1</config:config-item>
+               <config:config-item config:name="IsAngleSnapEnabled" config:type="boolean">false</config:config-item>
+               <config:config-item config:name="SnapAngle" config:type="int">1500</config:config-item>
+               <config:config-item config:name="ZoomOnPage" config:type="boolean">false</config:config-item>
+            </config:config-item-map-entry>
+         </config:config-item-map-indexed>
+      </config:config-item-set>
+      <config:config-item-set config:name="ooo:configuration-settings">
+         <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+         <config:config-item config:name="BitmapTableURL" config:type="string">$(user)/config/standard.sob</config:config-item>
+         <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+         <config:config-item config:name="ColorTableURL" config:type="string">$(user)/config/standard.soc</config:config-item>
+         <config:config-item config:name="DashTableURL" config:type="string">$(user)/config/standard.sod</config:config-item>
+         <config:config-item config:name="DefaultTabStop" config:type="int">1270</config:config-item>
+         <config:config-item-map-indexed config:name="ForbiddenCharacters">
+            <config:config-item-map-entry>
+               <config:config-item config:name="Language" config:type="string">en</config:config-item>
+               <config:config-item config:name="Country" config:type="string">US</config:config-item>
+               <config:config-item config:name="Variant" config:type="string"/>
+               <config:config-item config:name="BeginLine" config:type="string"/>
+               <config:config-item config:name="EndLine" config:type="string"/>
+            </config:config-item-map-entry>
+         </config:config-item-map-indexed>
+         <config:config-item config:name="GradientTableURL" config:type="string">$(user)/config/standard.sog</config:config-item>
+         <config:config-item config:name="HatchTableURL" config:type="string">$(user)/config/standard.soh</config:config-item>
+         <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+         <config:config-item config:name="IsPrintBooklet" config:type="boolean">false</config:config-item>
+         <config:config-item config:name="IsPrintBookletBack" config:type="boolean">true</config:config-item>
+         <config:config-item config:name="IsPrintBookletFront" config:type="boolean">true</config:config-item>
+         <config:config-item config:name="IsPrintDate" config:type="boolean">false</config:config-item>
+         <config:config-item config:name="IsPrintFitPage" config:type="boolean">false</config:config-item>
+         <config:config-item config:name="IsPrintHiddenPages" config:type="boolean">true</config:config-item>
+         <config:config-item config:name="IsPrintPageName" config:type="boolean">false</config:config-item>
+         <config:config-item config:name="IsPrintTilePage" config:type="boolean">false</config:config-item>
+         <config:config-item config:name="IsPrintTime" config:type="boolean">false</config:config-item>
+         <config:config-item config:name="LineEndTableURL" config:type="string">$(user)/config/standard.soe</config:config-item>
+         <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+         <config:config-item config:name="MeasureUnit" config:type="short">7</config:config-item>
+         <config:config-item config:name="PageNumberFormat" config:type="int">4</config:config-item>
+         <config:config-item config:name="ParagraphSummation" config:type="boolean">false</config:config-item>
+         <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
+         <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
+         <config:config-item config:name="PrinterName" config:type="string">IPSiO SP 6210 RPCS窓側</config:config-item>
+         <config:config-item config:name="PrinterSetup" config:type="base64Binary">tgX+/0lQU2lPIFNQIDYyMTAgUlBDU+eqk+WBtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUklDT0ggSVBTaU8gU1AgNjIxMCBSUENTAAAAAAAAAAAWAAEA3AQAAAAAAAAEAAhSAAAEdAAAM1ROVwIACABJAFAAUwBpAE8AIABTAFAAIAA2ADIAMQAwACAAUgBQAEMAUwCTenRQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQQABNwA+AMD/wAAAQAJAJoLNAhkAAEABwBYAgEAAQBYAgMAAQBBADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAALAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAUlBDUwAAAABSQzYwRDE3MC5pbmkAAAAAMDEuMDAAAAAAAAAAAAAAADAxLjAwAAAAAAAAAAAAAABSQ09NTU9OAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAQMAAAADAAAGAT//DwAAAQAAAAAAAAAAAAAAAAAAcHJpdvgDAABCAQAAAADUBGQZAFoAAABYAlgCZhsAAGATAAB2GgAAcBIAAHgAAAB4AAAAAAQAAGYbAABgEwAAdhoAAHASAAB4AAAAeAAAAAAAAAAsAQAAQAAAAAIAZABkAAEAAQABAwEAAAAAAAAAAAAIAgQGAAUAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgmyCciCCb4NTg1aDYoNOAAAAAAAAAAAAAAAAAAAAAAAKAAEAAAABAzIAAQABAAEAAQAAAAEAAAAAAAEBAAAAAAEBAAAAAAAADwAAIAAAAAABAAAAABEgAQABEAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP8DAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAACAAAAAAABAgAACAAQDOAAAAHoJAAA6CQAAAQAAQDoJAAA6CQAAAQAAQABAQAAAAAAAAAAAAAABQUFBQABAAEAAQABAAEAAQABAAEAAAAAAAAAAwIDAAAAAAAAAAAAAQADAAEAg1KDc4Fbi9aOfgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCbIJyIIJvg1ODVoNig04AAAAAAAAAAAAAAAAAAAAAAABGAB4ARgAAAAIAAAADAAAAAAAAAAAAAACaCwAANAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMEAQABAAEAAAAAAAAAAAAAAAEAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAQAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAIBAAAAAAEAAAAAAAABAQASAENPTVBBVF9EVVBMRVhfTU9ERQoARFVQTEVYX09GRg==</config:config-item>
+         <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+         <config:config-item config:name="ScaleDenominator" config:type="int">1</config:config-item>
+         <config:config-item config:name="ScaleNumerator" config:type="int">1</config:config-item>
+         <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+      </config:config-item-set>
+   </office:settings>
+   <office:scripts>
+      <office:script script:language="ooo:Basic">
+         <ooo:libraries>
+            <ooo:library-embedded ooo:name="Standard"/>
+         </ooo:libraries>
+      </office:script>
+   </office:scripts>
+   <office:styles>
+      <draw:gradient draw:name="Gradient_20_7" draw:display-name="Gradient 7" draw:style="linear"
+                     draw:start-color="#000000"
+                     draw:end-color="#ffffff"
+                     draw:start-intensity="100%"
+                     draw:end-intensity="100%"
+                     draw:angle="0"
+                     draw:border="0%"/>
+      <draw:gradient draw:name="Gradient_20_8" draw:display-name="Gradient 8" draw:style="linear"
+                     draw:start-color="#000000"
+                     draw:end-color="#ffffff"
+                     draw:start-intensity="100%"
+                     draw:end-intensity="100%"
+                     draw:angle="0"
+                     draw:border="0%"/>
+      <draw:hatch draw:name="Hatch_20_1" draw:display-name="Hatch 1" draw:style="single"
+                  draw:color="#000000"
+                  draw:distance="0.02cm"
+                  draw:rotation="0"/>
+      <draw:fill-image draw:name="Bitmape_20_1" draw:display-name="Bitmape 1">
+         <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAADAFBMVEUAAAAAAIAAgAAAgICAAACAAICAgACAgIDAwMAAAP8A/wAA////AAD/AP///wD///8AAAAzAABmAACZAADMAAD/AAAAMwAzMwBmMwCZMwDMMwD/MwAAZgAzZgBmZgCZZgDMZgD/ZgAAmQAzmQBmmQCZmQDMmQD/mQAAzAAzzABmzACZzADMzAD/zAAA/wAz/wBm/wCZ/wDM/wD//wAAADMzADNmADOZADPMADP/ADMAMzMzMzNmMzOZMzPMMzP/MzMAZjMzZjNmZjOZZjPMZjP/ZjMAmTMzmTNmmTOZmTPMmTP/mTMAzDMzzDNmzDOZzDPMzDP/zDMA/zMz/zNm/zOZ/zPM/zP//zMAAGYzAGZmAGaZAGbMAGb/AGYAM2YzM2ZmM2aZM2bMM2b/M2YAZmYzZmZmZmaZZmbMZmb/ZmYAmWYzmWZmmWaZmWbMmWb/mWYAzGYzzGZmzGaZzGbMzGb/zGYA/2Yz/2Zm/2aZ/2bM/2b//2YAAJkzAJlmAJmZAJnMAJn/AJkAM5kzM5lmM5mZM5nMM5n/M5kAZpkzZplmZpmZZpnMZpn/ZpkAmZkzmZlmmZmZmZnMmZn/mZkAzJkzzJlmzJmZzJnMzJn/zJkA/5kz/5lm/5mZ/5nM/5n//5kAAMwzAMxmAMyZAMzMAMz/AMwAM8wzM8xmM8yZM8zMM8z/M8wAZswzZsxmZsyZZszMZsz/ZswAmcwzmcxmmcyZmczMmcz/mcwAzMwzzMxmzMyZzMzMzMz/zMwA/8wz/8xm/8yZ/8zM/8z//8wAAP8zAP9mAP+ZAP/MAP//AP8AM/8zM/9mM/+ZM//MM///M/8AZv8zZv9mZv+ZZv/MZv//Zv8Amf8zmf9mmf+Zmf/Mmf//mf8AzP8zzP9mzP+ZzP/MzP//zP8A//8z//9m//+Z///M//////8AuP8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC40k8YAAAAFklEQVR4nGPgJwAYRhWMKhhVMFIVAADLVTwBNA/g8AAAAABJRU5ErkJggg==</office:binary-data>
+      </draw:fill-image>
+      <draw:marker draw:name="Arrow" svg:viewBox="0 0 20 30" svg:d="m10 0-10 30h20z"/>
+      <draw:stroke-dash draw:name="Dash_20_2" draw:display-name="Dash 2" draw:style="rect"
+                        draw:dots1="1"
+                        draw:dots1-length="0.02cm"
+                        draw:dots2="1"
+                        draw:dots2-length="0.02cm"
+                        draw:distance="0.02cm"/>
+      <style:default-style style:family="graphic">
+         <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple"
+                                     style:line-break="strict"
+                                     style:writing-mode="lr-tb"
+                                     style:font-independent-line-spacing="false">
+            <style:tab-stops/>
+         </style:paragraph-properties>
+         <style:text-properties style:use-window-font-color="true" fo:font-family="'Liberation Serif'"
+                                style:font-family-generic="roman"
+                                style:font-pitch="variable"
+                                fo:font-size="24pt"
+                                fo:language="en"
+                                fo:country="US"
+                                style:font-family-asian="'DejaVu Sans'"
+                                style:font-family-generic-asian="system"
+                                style:font-pitch-asian="variable"
+                                style:font-size-asian="24pt"
+                                style:language-asian="zh"
+                                style:country-asian="CN"
+                                style:font-family-complex="'DejaVu Sans'"
+                                style:font-family-generic-complex="system"
+                                style:font-pitch-complex="variable"
+                                style:font-size-complex="24pt"
+                                style:language-complex="hi"
+                                style:country-complex="IN"/>
+      </style:default-style>
+      <style:style style:name="standard" style:family="graphic">
+         <style:graphic-properties draw:stroke="solid" draw:stroke-dash="Dash_20_2" svg:stroke-width="0cm"
+                                   svg:stroke-color="#000000"
+                                   draw:marker-start-width="0.3cm"
+                                   draw:marker-start-center="false"
+                                   draw:marker-end-width="0.3cm"
+                                   draw:marker-end-center="false"
+                                   draw:fill="solid"
+                                   draw:fill-color="#99ccff"
+                                   draw:fill-gradient-name="Gradient_20_8"
+                                   draw:fill-hatch-name="Hatch_20_1"
+                                   draw:fill-image-name="Bitmape_20_1"
+                                   fo:padding-top="0.125cm"
+                                   fo:padding-bottom="0.125cm"
+                                   fo:padding-left="0.25cm"
+                                   fo:padding-right="0.25cm"
+                                   draw:shadow="hidden"
+                                   draw:shadow-offset-x="0.3cm"
+                                   draw:shadow-offset-y="0.3cm"
+                                   draw:shadow-color="#808080">
+            <text:list-style style:name="standard">
+               <text:list-level-style-bullet text:level="1" text:bullet-char="●">
+                  <style:list-level-properties/>
+                  <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                         fo:font-size="45%"/>
+               </text:list-level-style-bullet>
+               <text:list-level-style-bullet text:level="2" text:bullet-char="●">
+                  <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+                  <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                         fo:font-size="45%"/>
+               </text:list-level-style-bullet>
+               <text:list-level-style-bullet text:level="3" text:bullet-char="●">
+                  <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+                  <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                         fo:font-size="45%"/>
+               </text:list-level-style-bullet>
+               <text:list-level-style-bullet text:level="4" text:bullet-char="●">
+                  <style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+                  <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                         fo:font-size="45%"/>
+               </text:list-level-style-bullet>
+               <text:list-level-style-bullet text:level="5" text:bullet-char="●">
+                  <style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+                  <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                         fo:font-size="45%"/>
+               </text:list-level-style-bullet>
+               <text:list-level-style-bullet text:level="6" text:bullet-char="●">
+                  <style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+                  <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                         fo:font-size="45%"/>
+               </text:list-level-style-bullet>
+               <text:list-level-style-bullet text:level="7" text:bullet-char="●">
+                  <style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+                  <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                         fo:font-size="45%"/>
+               </text:list-level-style-bullet>
+               <text:list-level-style-bullet text:level="8" text:bullet-char="●">
+                  <style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+                  <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                         fo:font-size="45%"/>
+               </text:list-level-style-bullet>
+               <text:list-level-style-bullet text:level="9" text:bullet-char="●">
+                  <style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+                  <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                         fo:font-size="45%"/>
+               </text:list-level-style-bullet>
+               <text:list-level-style-bullet text:level="10" text:bullet-char="●">
+                  <style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+                  <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                         fo:font-size="45%"/>
+               </text:list-level-style-bullet>
+            </text:list-style>
+         </style:graphic-properties>
+         <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm"
+                                     fo:margin-bottom="0cm"
+                                     fo:line-height="100%"
+                                     fo:text-indent="0cm"/>
+         <style:text-properties style:use-window-font-color="true" style:text-outline="false"
+                                style:text-line-through-style="none"
+                                fo:font-family="'Liberation Sans'"
+                                style:font-family-generic="roman"
+                                style:font-pitch="variable"
+                                fo:font-size="10pt"
+                                fo:font-style="normal"
+                                fo:text-shadow="none"
+                                style:text-underline-style="none"
+                                fo:font-weight="normal"
+                                style:letter-kerning="true"
+                                style:font-family-asian="'DejaVu Sans'"
+                                style:font-family-generic-asian="system"
+                                style:font-pitch-asian="variable"
+                                style:font-size-asian="10pt"
+                                style:font-style-asian="normal"
+                                style:font-weight-asian="normal"
+                                style:font-family-complex="FreeSans"
+                                style:font-family-generic-complex="system"
+                                style:font-pitch-complex="variable"
+                                style:font-size-complex="18pt"
+                                style:font-style-complex="normal"
+                                style:font-weight-complex="normal"
+                                style:text-emphasize="none"
+                                style:font-relief="none"
+                                style:text-overline-style="none"
+                                style:text-overline-color="font-color"/>
+      </style:style>
+      <style:style style:name="objectwitharrow" style:family="graphic"
+                   style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.15cm" svg:stroke-color="#000000"
+                                   draw:marker-start="Arrow"
+                                   draw:marker-start-width="0.7cm"
+                                   draw:marker-start-center="true"
+                                   draw:marker-end-width="0.3cm"/>
+      </style:style>
+      <style:style style:name="objectwithshadow" style:family="graphic"
+                   style:parent-style-name="standard">
+         <style:graphic-properties draw:shadow="visible" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm"
+                                   draw:shadow-color="#808080"/>
+      </style:style>
+      <style:style style:name="objectwithoutfill" style:family="graphic"
+                   style:parent-style-name="standard">
+         <style:graphic-properties draw:fill="none"/>
+      </style:style>
+      <style:style style:name="text" style:family="graphic" style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+      </style:style>
+      <style:style style:name="textbody" style:family="graphic" style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+         <style:text-properties fo:font-size="16pt"/>
+      </style:style>
+      <style:style style:name="textbodyjustfied" style:family="graphic"
+                   style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+         <style:paragraph-properties fo:text-align="justify"/>
+      </style:style>
+      <style:style style:name="textbodyindent" style:family="graphic"
+                   style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+         <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0.6cm"/>
+      </style:style>
+      <style:style style:name="title" style:family="graphic" style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+         <style:text-properties fo:font-size="44pt"/>
+      </style:style>
+      <style:style style:name="title1" style:family="graphic" style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#008080"
+                                   draw:shadow="visible"
+                                   draw:shadow-offset-x="0.2cm"
+                                   draw:shadow-offset-y="0.2cm"
+                                   draw:shadow-color="#808080"/>
+         <style:paragraph-properties fo:text-align="center"/>
+         <style:text-properties fo:font-size="24pt"/>
+      </style:style>
+      <style:style style:name="title2" style:family="graphic" style:parent-style-name="standard">
+         <style:graphic-properties svg:stroke-width="0.05cm" draw:fill-color="#ffcc99" draw:shadow="visible"
+                                   draw:shadow-offset-x="0.2cm"
+                                   draw:shadow-offset-y="0.2cm"
+                                   draw:shadow-color="#808080"/>
+         <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0.2cm" fo:margin-top="0.1cm"
+                                     fo:margin-bottom="0.1cm"
+                                     fo:text-align="center"
+                                     fo:text-indent="0cm"/>
+         <style:text-properties fo:font-size="36pt"/>
+      </style:style>
+      <style:style style:name="headline" style:family="graphic" style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+         <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="0.21cm"/>
+         <style:text-properties fo:font-size="24pt"/>
+      </style:style>
+      <style:style style:name="headline1" style:family="graphic"
+                   style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+         <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="0.21cm"/>
+         <style:text-properties fo:font-size="18pt" fo:font-weight="bold"/>
+      </style:style>
+      <style:style style:name="headline2" style:family="graphic"
+                   style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+         <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="0.21cm"/>
+         <style:text-properties fo:font-size="14pt" fo:font-style="italic" fo:font-weight="bold"/>
+      </style:style>
+      <style:style style:name="measure" style:family="graphic" style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="solid" draw:marker-start="Arrow" draw:marker-start-width="0.2cm"
+                                   draw:marker-end="Arrow"
+                                   draw:marker-end-width="0.2cm"
+                                   draw:fill="none"
+                                   draw:show-unit="true"/>
+         <style:text-properties fo:font-size="12pt"/>
+      </style:style>
+      <style:style style:name="Literal" style:family="graphic" style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" draw:stroke-dash="Dash_20_2" draw:fill="none"
+                                   draw:fill-gradient-name="Gradient_20_7"
+                                   draw:fill-hatch-name="Hatch_20_1"
+                                   draw:fill-image-name="Bitmape_20_1"
+                                   draw:fill-image-width="0cm"
+                                   draw:fill-image-height="0cm"
+                                   draw:textarea-vertical-align="middle"
+                                   draw:auto-grow-width="true"
+                                   fo:padding-top="0cm"
+                                   fo:padding-bottom="0cm"
+                                   fo:padding-left="0cm"
+                                   fo:padding-right="0cm"/>
+         <style:paragraph-properties fo:text-align="center"/>
+         <style:text-properties fo:color="#0000ff" fo:font-family="東風明朝" style:font-style-name="Regular"
+                                style:font-pitch="variable"
+                                fo:font-size="70pt"
+                                style:font-family-asian="東風明朝"
+                                style:font-size-asian="70pt"/>
+      </style:style>
+      <style:style style:name="Grade" style:family="graphic" style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" draw:stroke-dash="Dash_20_2" draw:fill="none"
+                                   draw:fill-gradient-name="Gradient_20_7"
+                                   draw:fill-hatch-name="Hatch_20_1"
+                                   draw:fill-image-name="Bitmape_20_1"
+                                   draw:fill-image-width="0cm"
+                                   draw:fill-image-height="0cm"
+                                   draw:textarea-vertical-align="middle"
+                                   draw:auto-grow-width="true"
+                                   fo:padding-top="0cm"
+                                   fo:padding-bottom="0cm"
+                                   fo:padding-left="0cm"
+                                   fo:padding-right="0cm"
+                                   draw:shadow-offset-x="0.305cm"
+                                   draw:shadow-offset-y="0.305cm"/>
+         <style:paragraph-properties fo:text-align="center">
+            <style:tab-stops/>
+         </style:paragraph-properties>
+         <style:text-properties fo:color="#808080" fo:font-family="東風ゴシック" style:font-style-name="Regular"
+                                style:font-family-generic="swiss"
+                                style:font-pitch="variable"
+                                fo:font-size="14pt"
+                                style:font-size-asian="14pt"/>
+      </style:style>
+      <style:style style:name="Stroke_20_count" style:display-name="Stroke count"
+                   style:family="graphic"
+                   style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" draw:stroke-dash="Dash_20_2" draw:fill="none"
+                                   draw:fill-gradient-name="Gradient_20_7"
+                                   draw:fill-hatch-name="Hatch_20_1"
+                                   draw:fill-image-name="Bitmape_20_1"
+                                   draw:fill-image-width="0cm"
+                                   draw:fill-image-height="0cm"
+                                   draw:textarea-vertical-align="middle"
+                                   draw:auto-grow-width="true"
+                                   fo:padding-top="0cm"
+                                   fo:padding-bottom="0cm"
+                                   fo:padding-left="0cm"
+                                   fo:padding-right="0cm"/>
+         <style:paragraph-properties fo:text-align="center"/>
+         <style:text-properties fo:color="#ff00ff" fo:font-size="14pt" style:font-size-asian="14pt"/>
+      </style:style>
+      <style:style style:name="Front_20_background" style:display-name="Front background"
+                   style:family="graphic"
+                   style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" draw:stroke-dash="Dash_20_2" draw:fill="none"
+                                   draw:fill-color="#ccffff"
+                                   draw:fill-gradient-name="Gradient_20_7"
+                                   draw:fill-hatch-name="Hatch_20_1"
+                                   draw:fill-image-name="Bitmape_20_1"
+                                   draw:fill-image-width="0cm"
+                                   draw:fill-image-height="0cm"/>
+      </style:style>
+      <style:style style:name="English" style:family="graphic" style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" draw:stroke-dash="Dash_20_2" draw:fill="none"
+                                   draw:fill-gradient-name="Gradient_20_7"
+                                   draw:fill-hatch-name="Hatch_20_1"
+                                   draw:fill-image-name="Bitmape_20_1"
+                                   draw:fill-image-width="0cm"
+                                   draw:fill-image-height="0cm"
+                                   draw:textarea-vertical-align="middle"
+                                   draw:auto-grow-width="true"
+                                   fo:padding-top="0cm"
+                                   fo:padding-bottom="0cm"
+                                   fo:padding-left="0cm"
+                                   fo:padding-right="0cm"/>
+         <style:paragraph-properties fo:text-align="center"/>
+         <style:text-properties fo:color="#23ff23" fo:font-size="22pt"/>
+      </style:style>
+      <style:style style:name="Onyomi" style:family="graphic" style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" draw:stroke-dash="Dash_20_2" draw:fill="none"
+                                   draw:fill-gradient-name="Gradient_20_7"
+                                   draw:fill-hatch-name="Hatch_20_1"
+                                   draw:fill-image-name="Bitmape_20_1"
+                                   draw:fill-image-width="0cm"
+                                   draw:fill-image-height="0cm"
+                                   draw:textarea-vertical-align="middle"
+                                   draw:auto-grow-width="true"
+                                   fo:padding-top="0cm"
+                                   fo:padding-bottom="0cm"
+                                   fo:padding-left="0cm"
+                                   fo:padding-right="0cm"/>
+         <style:text-properties fo:color="#ff6633" fo:font-size="10pt" style:font-size-asian="10pt"/>
+      </style:style>
+      <style:style style:name="Kunyomi" style:family="graphic" style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" draw:stroke-dash="Dash_20_2" draw:fill="none"
+                                   draw:fill-gradient-name="Gradient_20_7"
+                                   draw:fill-hatch-name="Hatch_20_1"
+                                   draw:fill-image-name="Bitmape_20_1"
+                                   draw:fill-image-width="0cm"
+                                   draw:fill-image-height="0cm"
+                                   draw:textarea-vertical-align="middle"
+                                   draw:auto-grow-width="true"
+                                   fo:padding-top="0cm"
+                                   fo:padding-bottom="0cm"
+                                   fo:padding-left="0cm"
+                                   fo:padding-right="0cm"/>
+         <style:text-properties fo:color="#ff0000" fo:font-size="10pt" style:font-size-asian="10pt"/>
+      </style:style>
+      <style:style style:name="Example" style:family="graphic" style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" draw:stroke-dash="Dash_20_2" draw:fill="none"
+                                   draw:fill-gradient-name="Gradient_20_7"
+                                   draw:fill-hatch-name="Hatch_20_1"
+                                   draw:fill-image-name="Bitmape_20_1"
+                                   draw:fill-image-width="0cm"
+                                   draw:fill-image-height="0cm"
+                                   draw:textarea-vertical-align="middle"
+                                   draw:auto-grow-width="true"
+                                   fo:padding-top="0cm"
+                                   fo:padding-bottom="0cm"
+                                   fo:padding-left="0cm"
+                                   fo:padding-right="0cm"/>
+         <style:text-properties fo:color="#000000" fo:font-size="10pt" style:font-family-asian="東風明朝"
+                                style:font-size-asian="10pt"/>
+      </style:style>
+      <style:style style:name="Meaning" style:family="graphic" style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" draw:stroke-dash="Dash_20_2" draw:fill="none"
+                                   draw:fill-gradient-name="Gradient_20_7"
+                                   draw:fill-hatch-name="Hatch_20_1"
+                                   draw:fill-image-name="Bitmape_20_1"
+                                   draw:fill-image-width="0cm"
+                                   draw:fill-image-height="0cm"
+                                   draw:textarea-vertical-align="middle"
+                                   draw:auto-grow-width="true"
+                                   fo:padding-top="0cm"
+                                   fo:padding-bottom="0cm"
+                                   fo:padding-left="0cm"
+                                   fo:padding-right="0cm"/>
+         <style:text-properties fo:color="#9999ff" fo:font-size="10pt"/>
+      </style:style>
+      <style:style style:name="Back_20_background" style:display-name="Back background"
+                   style:family="graphic"
+                   style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke-dash="Dash_20_2" svg:stroke-width="0.025cm"
+                                   svg:stroke-color="#c0c0c0"
+                                   draw:marker-start-width="0.152cm"
+                                   draw:marker-end-width="0.152cm"
+                                   draw:fill="none"
+                                   draw:fill-gradient-name="Gradient_20_7"
+                                   draw:fill-hatch-name="Hatch_20_1"
+                                   draw:fill-image-name="Bitmape_20_1"
+                                   draw:fill-image-width="0cm"
+                                   draw:fill-image-height="0cm"/>
+      </style:style>
+   </office:styles>
+   <office:automatic-styles>
+      <style:page-layout style:name="PM0">
+         <style:page-layout-properties fo:margin-top="1cm" fo:margin-bottom="1cm" fo:margin-left="1cm"
+                                       fo:margin-right="1cm"
+                                       fo:page-width="21.59cm"
+                                       fo:page-height="27.94cm"
+                                       style:print-orientation="portrait"/>
+      </style:page-layout>
+      <style:style style:name="dp1" style:family="drawing-page">
+         <style:drawing-page-properties draw:background-size="border" draw:fill="none"/>
+      </style:style>
+      <style:style style:name="dp2" style:family="drawing-page"/>
+      <style:style style:name="gr1" style:family="graphic"
+                   style:parent-style-name="Front_20_background">
+         <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle"
+                                   draw:auto-grow-height="false"/>
+      </style:style>
+      <style:style style:name="gr2" style:family="graphic" style:parent-style-name="Literal">
+         <style:graphic-properties draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle"
+                                   draw:auto-grow-height="true"
+                                   draw:auto-grow-width="false"
+                                   fo:min-height="3.399cm"
+                                   fo:min-width="0cm"/>
+      </style:style>
+      <style:style style:name="gr3" style:family="graphic"
+                   style:parent-style-name="Stroke_20_count">
+         <style:graphic-properties draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle"
+                                   draw:auto-grow-height="true"
+                                   draw:auto-grow-width="false"
+                                   fo:min-height="0.788cm"
+                                   fo:min-width="0cm"/>
+      </style:style>
+      <style:style style:name="gr4" style:family="graphic" style:parent-style-name="Grade">
+         <style:graphic-properties draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle"
+                                   draw:auto-grow-height="true"
+                                   draw:auto-grow-width="false"
+                                   fo:min-height="0.788cm"
+                                   fo:min-width="0cm"/>
+      </style:style>
+      <style:style style:name="gr5" style:family="graphic"
+                   style:parent-style-name="Back_20_background">
+         <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle"
+                                   draw:auto-grow-height="false"/>
+      </style:style>
+      <style:style style:name="gr6" style:family="graphic" style:parent-style-name="English">
+         <style:graphic-properties fo:min-height="0.945cm" fo:min-width="9.206cm"/>
+      </style:style>
+      <style:style style:name="gr7" style:family="graphic" style:parent-style-name="Meaning">
+         <style:graphic-properties fo:min-height="0.709cm" fo:min-width="9.206cm"/>
+      </style:style>
+      <style:style style:name="gr8" style:family="graphic" style:parent-style-name="Onyomi">
+         <style:graphic-properties fo:min-height="0.71cm" fo:min-width="9.206cm"/>
+      </style:style>
+      <style:style style:name="gr9" style:family="graphic" style:parent-style-name="Example">
+         <style:graphic-properties fo:min-height="0.899cm" fo:min-width="9.206cm"/>
+      </style:style>
+      <style:style style:name="gr10" style:family="graphic" style:parent-style-name="Kunyomi">
+         <style:graphic-properties fo:min-height="0.709cm" fo:min-width="9.206cm"/>
+      </style:style>
+      <style:style style:name="gr11" style:family="graphic" style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-horizontal-align="center"
+                                   draw:textarea-vertical-align="middle"
+                                   draw:color-mode="standard"
+                                   draw:luminance="0%"
+                                   draw:contrast="0%"
+                                   draw:gamma="100%"
+                                   draw:red="0%"
+                                   draw:green="0%"
+                                   draw:blue="0%"
+                                   fo:clip="rect(0cm, 0cm, 0cm, 0cm)"
+                                   draw:image-opacity="100%"
+                                   style:mirror="none"/>
+      </style:style>
+      <style:style style:name="gr12" style:family="graphic" style:parent-style-name="standard">
+         <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none"
+                                   draw:fill-color="#ffffff"
+                                   fo:min-height="11.478cm"/>
+      </style:style>
+      <style:style style:name="P1" style:family="paragraph">
+         <style:paragraph-properties fo:text-align="center"/>
+      </style:style>
+      <style:style style:name="P2" style:family="paragraph">
+         <style:paragraph-properties fo:line-height="100%" fo:text-align="center"/>
+         <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+      </style:style>
+      <style:style style:name="T1" style:family="text">
+         <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+      </style:style>
+      <style:style style:name="T2" style:family="text">
+         <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="12pt"/>
+      </style:style>
+      <style:style style:name="T3" style:family="text">
+         <style:text-properties fo:font-size="10pt" style:text-underline-style="solid"
+                                style:text-underline-width="auto"
+                                style:text-underline-color="font-color"
+                                fo:font-weight="bold"
+                                style:font-size-asian="10pt"
+                                style:font-weight-asian="bold"
+                                style:font-size-complex="10pt"
+                                style:font-weight-complex="bold"/>
+      </style:style>
+      <text:list-style style:name="L1">
+         <text:list-level-style-bullet text:level="1" text:bullet-char="●">
+            <style:list-level-properties/>
+            <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                   fo:font-size="45%"/>
+         </text:list-level-style-bullet>
+         <text:list-level-style-bullet text:level="2" text:bullet-char="●">
+            <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+            <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                   fo:font-size="45%"/>
+         </text:list-level-style-bullet>
+         <text:list-level-style-bullet text:level="3" text:bullet-char="●">
+            <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+            <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                   fo:font-size="45%"/>
+         </text:list-level-style-bullet>
+         <text:list-level-style-bullet text:level="4" text:bullet-char="●">
+            <style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+            <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                   fo:font-size="45%"/>
+         </text:list-level-style-bullet>
+         <text:list-level-style-bullet text:level="5" text:bullet-char="●">
+            <style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+            <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                   fo:font-size="45%"/>
+         </text:list-level-style-bullet>
+         <text:list-level-style-bullet text:level="6" text:bullet-char="●">
+            <style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+            <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                   fo:font-size="45%"/>
+         </text:list-level-style-bullet>
+         <text:list-level-style-bullet text:level="7" text:bullet-char="●">
+            <style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+            <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                   fo:font-size="45%"/>
+         </text:list-level-style-bullet>
+         <text:list-level-style-bullet text:level="8" text:bullet-char="●">
+            <style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+            <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                   fo:font-size="45%"/>
+         </text:list-level-style-bullet>
+         <text:list-level-style-bullet text:level="9" text:bullet-char="●">
+            <style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+            <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                   fo:font-size="45%"/>
+         </text:list-level-style-bullet>
+         <text:list-level-style-bullet text:level="10" text:bullet-char="●">
+            <style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+            <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true"
+                                   fo:font-size="45%"/>
+         </text:list-level-style-bullet>
+      </text:list-style>
+   </office:automatic-styles>
+   <office:master-styles>
+      <draw:layer-set>
+         <draw:layer draw:name="layout"/>
+         <draw:layer draw:name="background"/>
+         <draw:layer draw:name="backgroundobjects"/>
+         <draw:layer draw:name="controls"/>
+         <draw:layer draw:name="measurelines"/>
+      </draw:layer-set>
+      <style:master-page style:name="Default" style:page-layout-name="PM0" draw:style-name="dp1"/>
+   </office:master-styles>
+   <office:body>
+      <office:drawing>
+         <draw:page draw:name="Front" draw:style-name="dp2" draw:master-page-name="Default">
+            <draw:g>
+               <svg:title>front3</svg:title>
+               <draw:custom-shape draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.338cm"
+                                  svg:x="1cm"
+                                  svg:y="5.338cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="4.445cm"
+                           svg:height="3.399cm"
+                           svg:x="3.54cm"
+                           svg:y="5.762cm">
+                  <draw:text-box>
+                     <text:p>字</text:p>
+                  </draw:text-box>
+                  <svg:title>literal</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr3" draw:layer="layout" svg:width="1.189cm"
+                           svg:height="0.788cm"
+                           svg:x="8.865cm"
+                           svg:y="8.366cm">
+                  <draw:text-box>
+                     <text:p>S</text:p>
+                  </draw:text-box>
+                  <svg:title>stroke_count</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="1.282cm"
+                           svg:height="0.788cm"
+                           svg:x="1.38cm"
+                           svg:y="8.366cm">
+                  <draw:text-box>
+                     <text:p>L</text:p>
+                  </draw:text-box>
+                  <svg:title>level</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>front4</svg:title>
+               <draw:custom-shape draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.338cm"
+                                  svg:x="10.795cm"
+                                  svg:y="5.338cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="4.445cm"
+                           svg:height="3.399cm"
+                           svg:x="13.335cm"
+                           svg:y="5.762cm">
+                  <draw:text-box>
+                     <text:p>字</text:p>
+                  </draw:text-box>
+                  <svg:title>literal</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr3" draw:layer="layout" svg:width="1.189cm"
+                           svg:height="0.788cm"
+                           svg:x="18.66cm"
+                           svg:y="8.366cm">
+                  <draw:text-box>
+                     <text:p>S</text:p>
+                  </draw:text-box>
+                  <svg:title>stroke_count</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="1.282cm"
+                           svg:height="0.788cm"
+                           svg:x="11.175cm"
+                           svg:y="8.366cm">
+                  <draw:text-box>
+                     <text:p>L</text:p>
+                  </draw:text-box>
+                  <svg:title>level</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>front1</svg:title>
+               <draw:custom-shape draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.338cm"
+                                  svg:x="1cm"
+                                  svg:y="1cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="4.445cm"
+                           svg:height="3.399cm"
+                           svg:x="3.54cm"
+                           svg:y="1.424cm">
+                  <draw:text-box>
+                     <text:p>字</text:p>
+                  </draw:text-box>
+                  <svg:title>literal</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr3" draw:layer="layout" svg:width="1.189cm"
+                           svg:height="0.788cm"
+                           svg:x="8.865cm"
+                           svg:y="4.028cm">
+                  <draw:text-box>
+                     <text:p>S</text:p>
+                  </draw:text-box>
+                  <svg:title>stroke_count</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="1.282cm"
+                           svg:height="0.788cm"
+                           svg:x="1.38cm"
+                           svg:y="4.028cm">
+                  <draw:text-box>
+                     <text:p>L</text:p>
+                  </draw:text-box>
+                  <svg:title>level</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>front2</svg:title>
+               <draw:custom-shape draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.338cm"
+                                  svg:x="10.795cm"
+                                  svg:y="1cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="4.445cm"
+                           svg:height="3.399cm"
+                           svg:x="13.335cm"
+                           svg:y="1.424cm">
+                  <draw:text-box>
+                     <text:p>字</text:p>
+                  </draw:text-box>
+                  <svg:title>literal</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr3" draw:layer="layout" svg:width="1.189cm"
+                           svg:height="0.788cm"
+                           svg:x="18.66cm"
+                           svg:y="4.028cm">
+                  <draw:text-box>
+                     <text:p>S</text:p>
+                  </draw:text-box>
+                  <svg:title>stroke_count</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="1.282cm"
+                           svg:height="0.788cm"
+                           svg:x="11.175cm"
+                           svg:y="4.028cm">
+                  <draw:text-box>
+                     <text:p>L</text:p>
+                  </draw:text-box>
+                  <svg:title>level</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>front5</svg:title>
+               <draw:custom-shape draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.338cm"
+                                  svg:x="1cm"
+                                  svg:y="9.676cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="4.445cm"
+                           svg:height="3.399cm"
+                           svg:x="3.54cm"
+                           svg:y="10.1cm">
+                  <draw:text-box>
+                     <text:p>字</text:p>
+                  </draw:text-box>
+                  <svg:title>literal</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr3" draw:layer="layout" svg:width="1.189cm"
+                           svg:height="0.788cm"
+                           svg:x="8.865cm"
+                           svg:y="12.704cm">
+                  <draw:text-box>
+                     <text:p>S</text:p>
+                  </draw:text-box>
+                  <svg:title>stroke_count</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="1.282cm"
+                           svg:height="0.788cm"
+                           svg:x="1.38cm"
+                           svg:y="12.704cm">
+                  <draw:text-box>
+                     <text:p>L</text:p>
+                  </draw:text-box>
+                  <svg:title>level</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>front6</svg:title>
+               <draw:custom-shape draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.338cm"
+                                  svg:x="10.795cm"
+                                  svg:y="9.676cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="4.445cm"
+                           svg:height="3.399cm"
+                           svg:x="13.335cm"
+                           svg:y="10.1cm">
+                  <draw:text-box>
+                     <text:p>字</text:p>
+                  </draw:text-box>
+                  <svg:title>literal</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr3" draw:layer="layout" svg:width="1.189cm"
+                           svg:height="0.788cm"
+                           svg:x="18.66cm"
+                           svg:y="12.704cm">
+                  <draw:text-box>
+                     <text:p>S</text:p>
+                  </draw:text-box>
+                  <svg:title>stroke_count</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="1.282cm"
+                           svg:height="0.788cm"
+                           svg:x="11.175cm"
+                           svg:y="12.704cm">
+                  <draw:text-box>
+                     <text:p>L</text:p>
+                  </draw:text-box>
+                  <svg:title>level</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>front9</svg:title>
+               <draw:custom-shape draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.338cm"
+                                  svg:x="1cm"
+                                  svg:y="18.264cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="4.445cm"
+                           svg:height="3.399cm"
+                           svg:x="3.54cm"
+                           svg:y="18.688cm">
+                  <draw:text-box>
+                     <text:p>字</text:p>
+                  </draw:text-box>
+                  <svg:title>literal</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr3" draw:layer="layout" svg:width="1.189cm"
+                           svg:height="0.788cm"
+                           svg:x="8.865cm"
+                           svg:y="21.292cm">
+                  <draw:text-box>
+                     <text:p>S</text:p>
+                  </draw:text-box>
+                  <svg:title>stroke_count</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="1.282cm"
+                           svg:height="0.788cm"
+                           svg:x="1.38cm"
+                           svg:y="21.292cm">
+                  <draw:text-box>
+                     <text:p>L</text:p>
+                  </draw:text-box>
+                  <svg:title>level</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>front10</svg:title>
+               <draw:custom-shape draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.338cm"
+                                  svg:x="10.795cm"
+                                  svg:y="18.264cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="4.445cm"
+                           svg:height="3.399cm"
+                           svg:x="13.335cm"
+                           svg:y="18.688cm">
+                  <draw:text-box>
+                     <text:p>字</text:p>
+                  </draw:text-box>
+                  <svg:title>literal</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr3" draw:layer="layout" svg:width="1.189cm"
+                           svg:height="0.788cm"
+                           svg:x="18.66cm"
+                           svg:y="21.292cm">
+                  <draw:text-box>
+                     <text:p>S</text:p>
+                  </draw:text-box>
+                  <svg:title>stroke_count</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="1.282cm"
+                           svg:height="0.788cm"
+                           svg:x="11.175cm"
+                           svg:y="21.292cm">
+                  <draw:text-box>
+                     <text:p>L</text:p>
+                  </draw:text-box>
+                  <svg:title>level</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>front7</svg:title>
+               <draw:custom-shape draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.338cm"
+                                  svg:x="1cm"
+                                  svg:y="13.926cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="4.445cm"
+                           svg:height="3.399cm"
+                           svg:x="3.54cm"
+                           svg:y="14.35cm">
+                  <draw:text-box>
+                     <text:p>字</text:p>
+                  </draw:text-box>
+                  <svg:title>literal</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr3" draw:layer="layout" svg:width="1.189cm"
+                           svg:height="0.788cm"
+                           svg:x="8.865cm"
+                           svg:y="16.954cm">
+                  <draw:text-box>
+                     <text:p>S</text:p>
+                  </draw:text-box>
+                  <svg:title>stroke_count</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="1.282cm"
+                           svg:height="0.788cm"
+                           svg:x="1.38cm"
+                           svg:y="16.954cm">
+                  <draw:text-box>
+                     <text:p>L</text:p>
+                  </draw:text-box>
+                  <svg:title>level</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>front8</svg:title>
+               <draw:custom-shape draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.338cm"
+                                  svg:x="10.795cm"
+                                  svg:y="13.926cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="4.445cm"
+                           svg:height="3.399cm"
+                           svg:x="13.335cm"
+                           svg:y="14.35cm">
+                  <draw:text-box>
+                     <text:p>字</text:p>
+                  </draw:text-box>
+                  <svg:title>literal</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr3" draw:layer="layout" svg:width="1.189cm"
+                           svg:height="0.788cm"
+                           svg:x="18.66cm"
+                           svg:y="16.954cm">
+                  <draw:text-box>
+                     <text:p>S</text:p>
+                  </draw:text-box>
+                  <svg:title>stroke_count</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="1.282cm"
+                           svg:height="0.788cm"
+                           svg:x="11.175cm"
+                           svg:y="16.954cm">
+                  <draw:text-box>
+                     <text:p>L</text:p>
+                  </draw:text-box>
+                  <svg:title>level</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>front11</svg:title>
+               <draw:custom-shape draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.338cm"
+                                  svg:x="1cm"
+                                  svg:y="22.602cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="4.445cm"
+                           svg:height="3.399cm"
+                           svg:x="3.54cm"
+                           svg:y="23.026cm">
+                  <draw:text-box>
+                     <text:p>字</text:p>
+                  </draw:text-box>
+                  <svg:title>literal</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr3" draw:layer="layout" svg:width="1.189cm"
+                           svg:height="0.788cm"
+                           svg:x="8.865cm"
+                           svg:y="25.63cm">
+                  <draw:text-box>
+                     <text:p>S</text:p>
+                  </draw:text-box>
+                  <svg:title>stroke_count</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="1.282cm"
+                           svg:height="0.788cm"
+                           svg:x="1.38cm"
+                           svg:y="25.63cm">
+                  <draw:text-box>
+                     <text:p>L</text:p>
+                  </draw:text-box>
+                  <svg:title>level</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>front12</svg:title>
+               <draw:custom-shape draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.338cm"
+                                  svg:x="10.795cm"
+                                  svg:y="22.602cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr2" draw:layer="layout" svg:width="4.445cm"
+                           svg:height="3.399cm"
+                           svg:x="13.335cm"
+                           svg:y="23.026cm">
+                  <draw:text-box>
+                     <text:p>字</text:p>
+                  </draw:text-box>
+                  <svg:title>literal</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr3" draw:layer="layout" svg:width="1.189cm"
+                           svg:height="0.788cm"
+                           svg:x="18.66cm"
+                           svg:y="25.63cm">
+                  <draw:text-box>
+                     <text:p>S</text:p>
+                  </draw:text-box>
+                  <svg:title>stroke_count</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr4" draw:layer="layout" svg:width="1.282cm"
+                           svg:height="0.788cm"
+                           svg:x="11.175cm"
+                           svg:y="25.63cm">
+                  <draw:text-box>
+                     <text:p>L</text:p>
+                  </draw:text-box>
+                  <svg:title>level</svg:title>
+               </draw:frame>
+            </draw:g>
+         </draw:page>
+         <draw:page draw:name="Back" draw:style-name="dp2" draw:master-page-name="Default">
+            <draw:g>
+               <svg:title>back4</svg:title>
+               <draw:custom-shape draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.323cm"
+                                  svg:x="1cm"
+                                  svg:y="5.325cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="9.206cm"
+                           svg:height="0.945cm"
+                           svg:x="1.318cm"
+                           svg:y="5.783cm">
+                  <draw:text-box>
+                     <text:p>ENGLISH</text:p>
+                  </draw:text-box>
+                  <svg:title>english</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr7" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="1.318cm"
+                           svg:y="6.767cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">MEANING</text:p>
+                  </draw:text-box>
+                  <svg:title>meaning</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr8" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.71cm"
+                           svg:x="1.318cm"
+                           svg:y="7.19cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">オンヨミ</text:p>
+                  </draw:text-box>
+                  <svg:title>onyomi</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.899cm"
+                           svg:x="1.318cm"
+                           svg:y="8.372cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">例 (れい) - EXAMPLES</text:p>
+                  </draw:text-box>
+                  <svg:title>examples</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr10" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="1.318cm"
+                           svg:y="7.614cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">くんよみ</text:p>
+                  </draw:text-box>
+                  <svg:title>kunyomi</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>back3</svg:title>
+               <draw:custom-shape draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.323cm"
+                                  svg:x="10.794cm"
+                                  svg:y="5.324cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="9.206cm"
+                           svg:height="0.945cm"
+                           svg:x="11.112cm"
+                           svg:y="5.782cm">
+                  <draw:text-box>
+                     <text:p>ENGLISH</text:p>
+                  </draw:text-box>
+                  <svg:title>english</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr7" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="11.112cm"
+                           svg:y="6.766cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">MEANING</text:p>
+                  </draw:text-box>
+                  <svg:title>meaning</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr8" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.71cm"
+                           svg:x="11.112cm"
+                           svg:y="7.189cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">オンヨミ</text:p>
+                  </draw:text-box>
+                  <svg:title>onyomi</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.899cm"
+                           svg:x="11.112cm"
+                           svg:y="8.371cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">例 (れい) - EXAMPLES</text:p>
+                  </draw:text-box>
+                  <svg:title>examples</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr10" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="11.112cm"
+                           svg:y="7.613cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">くんよみ</text:p>
+                  </draw:text-box>
+                  <svg:title>kunyomi</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>back2</svg:title>
+               <draw:custom-shape draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.323cm"
+                                  svg:x="0.999cm"
+                                  svg:y="1.001cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="9.206cm"
+                           svg:height="0.945cm"
+                           svg:x="1.317cm"
+                           svg:y="1.459cm">
+                  <draw:text-box>
+                     <text:p>ENGLISH</text:p>
+                  </draw:text-box>
+                  <svg:title>english</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr7" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="1.317cm"
+                           svg:y="2.443cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">MEANING</text:p>
+                  </draw:text-box>
+                  <svg:title>meaning</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr8" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.71cm"
+                           svg:x="1.317cm"
+                           svg:y="2.866cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">オンヨミ</text:p>
+                  </draw:text-box>
+                  <svg:title>onyomi</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.899cm"
+                           svg:x="1.317cm"
+                           svg:y="4.048cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">例 (れい) - EXAMPLES</text:p>
+                  </draw:text-box>
+                  <svg:title>examples</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr10" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="1.317cm"
+                           svg:y="3.29cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">くんよみ</text:p>
+                  </draw:text-box>
+                  <svg:title>kunyomi</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>back1</svg:title>
+               <draw:custom-shape draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.323cm"
+                                  svg:x="10.793cm"
+                                  svg:y="1cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="9.206cm"
+                           svg:height="0.945cm"
+                           svg:x="11.111cm"
+                           svg:y="1.458cm">
+                  <draw:text-box>
+                     <text:p>ENGLISH</text:p>
+                  </draw:text-box>
+                  <svg:title>english</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr7" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="11.111cm"
+                           svg:y="2.442cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">MEANING</text:p>
+                  </draw:text-box>
+                  <svg:title>meaning</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr8" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.71cm"
+                           svg:x="11.111cm"
+                           svg:y="2.865cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">オンヨミ</text:p>
+                  </draw:text-box>
+                  <svg:title>onyomi</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.899cm"
+                           svg:x="11.111cm"
+                           svg:y="4.047cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">例 (れい) - EXAMPLES</text:p>
+                  </draw:text-box>
+                  <svg:title>examples</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr10" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="11.111cm"
+                           svg:y="3.289cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">くんよみ</text:p>
+                  </draw:text-box>
+                  <svg:title>kunyomi</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>back6</svg:title>
+               <draw:custom-shape draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.323cm"
+                                  svg:x="1.001cm"
+                                  svg:y="9.649cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="9.206cm"
+                           svg:height="0.945cm"
+                           svg:x="1.319cm"
+                           svg:y="10.107cm">
+                  <draw:text-box>
+                     <text:p>ENGLISH</text:p>
+                  </draw:text-box>
+                  <svg:title>english</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr7" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="1.319cm"
+                           svg:y="11.091cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">MEANING</text:p>
+                  </draw:text-box>
+                  <svg:title>meaning</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr8" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.71cm"
+                           svg:x="1.319cm"
+                           svg:y="11.514cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">オンヨミ</text:p>
+                  </draw:text-box>
+                  <svg:title>onyomi</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.899cm"
+                           svg:x="1.319cm"
+                           svg:y="12.696cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">例 (れい) - EXAMPLES</text:p>
+                  </draw:text-box>
+                  <svg:title>examples</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr10" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="1.319cm"
+                           svg:y="11.938cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">くんよみ</text:p>
+                  </draw:text-box>
+                  <svg:title>kunyomi</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>back5</svg:title>
+               <draw:custom-shape draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.323cm"
+                                  svg:x="10.795cm"
+                                  svg:y="9.648cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="9.206cm"
+                           svg:height="0.945cm"
+                           svg:x="11.113cm"
+                           svg:y="10.106cm">
+                  <draw:text-box>
+                     <text:p>ENGLISH</text:p>
+                  </draw:text-box>
+                  <svg:title>english</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr7" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="11.113cm"
+                           svg:y="11.09cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">MEANING</text:p>
+                  </draw:text-box>
+                  <svg:title>meaning</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr8" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.71cm"
+                           svg:x="11.113cm"
+                           svg:y="11.513cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">オンヨミ</text:p>
+                  </draw:text-box>
+                  <svg:title>onyomi</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.899cm"
+                           svg:x="11.113cm"
+                           svg:y="12.695cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">例 (れい) - EXAMPLES</text:p>
+                  </draw:text-box>
+                  <svg:title>examples</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr10" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="11.113cm"
+                           svg:y="11.937cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">くんよみ</text:p>
+                  </draw:text-box>
+                  <svg:title>kunyomi</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>back10</svg:title>
+               <draw:custom-shape draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.323cm"
+                                  svg:x="1.001cm"
+                                  svg:y="18.293cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="9.206cm"
+                           svg:height="0.945cm"
+                           svg:x="1.319cm"
+                           svg:y="18.751cm">
+                  <draw:text-box>
+                     <text:p>ENGLISH</text:p>
+                  </draw:text-box>
+                  <svg:title>english</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr7" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="1.319cm"
+                           svg:y="19.735cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">MEANING</text:p>
+                  </draw:text-box>
+                  <svg:title>meaning</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr8" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.71cm"
+                           svg:x="1.319cm"
+                           svg:y="20.158cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">オンヨミ</text:p>
+                  </draw:text-box>
+                  <svg:title>onyomi</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.899cm"
+                           svg:x="1.319cm"
+                           svg:y="21.34cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">例 (れい) - EXAMPLES</text:p>
+                  </draw:text-box>
+                  <svg:title>examples</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr10" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="1.319cm"
+                           svg:y="20.582cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">くんよみ</text:p>
+                  </draw:text-box>
+                  <svg:title>kunyomi</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>back9</svg:title>
+               <draw:custom-shape draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.323cm"
+                                  svg:x="10.795cm"
+                                  svg:y="18.292cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="9.206cm"
+                           svg:height="0.945cm"
+                           svg:x="11.113cm"
+                           svg:y="18.75cm">
+                  <draw:text-box>
+                     <text:p>ENGLISH</text:p>
+                  </draw:text-box>
+                  <svg:title>english</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr7" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="11.113cm"
+                           svg:y="19.734cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">MEANING</text:p>
+                  </draw:text-box>
+                  <svg:title>meaning</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr8" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.71cm"
+                           svg:x="11.113cm"
+                           svg:y="20.157cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">オンヨミ</text:p>
+                  </draw:text-box>
+                  <svg:title>onyomi</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.899cm"
+                           svg:x="11.113cm"
+                           svg:y="21.339cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">例 (れい) - EXAMPLES</text:p>
+                  </draw:text-box>
+                  <svg:title>examples</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr10" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="11.113cm"
+                           svg:y="20.581cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">くんよみ</text:p>
+                  </draw:text-box>
+                  <svg:title>kunyomi</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>back8</svg:title>
+               <draw:custom-shape draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.323cm"
+                                  svg:x="1cm"
+                                  svg:y="13.969cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="9.206cm"
+                           svg:height="0.945cm"
+                           svg:x="1.318cm"
+                           svg:y="14.427cm">
+                  <draw:text-box>
+                     <text:p>ENGLISH</text:p>
+                  </draw:text-box>
+                  <svg:title>english</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr7" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="1.318cm"
+                           svg:y="15.411cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">MEANING</text:p>
+                  </draw:text-box>
+                  <svg:title>meaning</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr8" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.71cm"
+                           svg:x="1.318cm"
+                           svg:y="15.834cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">オンヨミ</text:p>
+                  </draw:text-box>
+                  <svg:title>onyomi</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.899cm"
+                           svg:x="1.318cm"
+                           svg:y="17.016cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">例 (れい) - EXAMPLES</text:p>
+                  </draw:text-box>
+                  <svg:title>examples</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr10" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="1.318cm"
+                           svg:y="16.258cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">くんよみ</text:p>
+                  </draw:text-box>
+                  <svg:title>kunyomi</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>back7</svg:title>
+               <draw:custom-shape draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.323cm"
+                                  svg:x="10.794cm"
+                                  svg:y="13.968cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="9.206cm"
+                           svg:height="0.945cm"
+                           svg:x="11.112cm"
+                           svg:y="14.426cm">
+                  <draw:text-box>
+                     <text:p>ENGLISH</text:p>
+                  </draw:text-box>
+                  <svg:title>english</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr7" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="11.112cm"
+                           svg:y="15.41cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">MEANING</text:p>
+                  </draw:text-box>
+                  <svg:title>meaning</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr8" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.71cm"
+                           svg:x="11.112cm"
+                           svg:y="15.833cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">オンヨミ</text:p>
+                  </draw:text-box>
+                  <svg:title>onyomi</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.899cm"
+                           svg:x="11.112cm"
+                           svg:y="17.015cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">例 (れい) - EXAMPLES</text:p>
+                  </draw:text-box>
+                  <svg:title>examples</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr10" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="11.112cm"
+                           svg:y="16.257cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">くんよみ</text:p>
+                  </draw:text-box>
+                  <svg:title>kunyomi</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>back12</svg:title>
+               <draw:custom-shape draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.323cm"
+                                  svg:x="1.002cm"
+                                  svg:y="22.617cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="9.206cm"
+                           svg:height="0.945cm"
+                           svg:x="1.32cm"
+                           svg:y="23.075cm">
+                  <draw:text-box>
+                     <text:p>ENGLISH</text:p>
+                  </draw:text-box>
+                  <svg:title>english</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr7" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="1.32cm"
+                           svg:y="24.059cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">MEANING</text:p>
+                  </draw:text-box>
+                  <svg:title>meaning</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr8" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.71cm"
+                           svg:x="1.32cm"
+                           svg:y="24.482cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">オンヨミ</text:p>
+                  </draw:text-box>
+                  <svg:title>onyomi</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.899cm"
+                           svg:x="1.32cm"
+                           svg:y="25.664cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">例 (れい) - EXAMPLES</text:p>
+                  </draw:text-box>
+                  <svg:title>examples</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr10" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="1.32cm"
+                           svg:y="24.906cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">くんよみ</text:p>
+                  </draw:text-box>
+                  <svg:title>kunyomi</svg:title>
+               </draw:frame>
+            </draw:g>
+            <draw:g>
+               <svg:title>back11</svg:title>
+               <draw:custom-shape draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout"
+                                  svg:width="9.795cm"
+                                  svg:height="4.323cm"
+                                  svg:x="10.796cm"
+                                  svg:y="22.616cm">
+                  <text:p/>
+                  <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false"
+                                          draw:mirror-vertical="false"
+                                          draw:type="rectangle"
+                                          draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+               </draw:custom-shape>
+               <draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="9.206cm"
+                           svg:height="0.945cm"
+                           svg:x="11.114cm"
+                           svg:y="23.074cm">
+                  <draw:text-box>
+                     <text:p>ENGLISH</text:p>
+                  </draw:text-box>
+                  <svg:title>english</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr7" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="11.114cm"
+                           svg:y="24.058cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">MEANING</text:p>
+                  </draw:text-box>
+                  <svg:title>meaning</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr8" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.71cm"
+                           svg:x="11.114cm"
+                           svg:y="24.481cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">オンヨミ</text:p>
+                  </draw:text-box>
+                  <svg:title>onyomi</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.899cm"
+                           svg:x="11.114cm"
+                           svg:y="25.663cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">例 (れい) - EXAMPLES</text:p>
+                  </draw:text-box>
+                  <svg:title>examples</svg:title>
+               </draw:frame>
+               <draw:frame draw:style-name="gr10" draw:text-style-name="P1" draw:layer="layout"
+                           svg:width="9.206cm"
+                           svg:height="0.709cm"
+                           svg:x="11.114cm"
+                           svg:y="24.905cm">
+                  <draw:text-box>
+                     <text:p text:style-name="P1">くんよみ</text:p>
+                  </draw:text-box>
+                  <svg:title>kunyomi</svg:title>
+               </draw:frame>
+            </draw:g>
+         </draw:page>
+         <draw:page draw:name="License" draw:style-name="dp2" draw:master-page-name="Default">
+            <draw:frame draw:style-name="gr11" draw:text-style-name="P1" draw:layer="layout"
+                        svg:width="6.048cm"
+                        svg:height="2.116cm"
+                        svg:x="7.771cm"
+                        svg:y="7.341cm">
+               <draw:image xlink:href="">
+                  <office:binary-data>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AQAAWgQAANQBAABCBAAArwEAACYEAACNAQAABwQAAG4BAADlAwAAUgEAAMADAAA6AQAAmAMAACYBAABuAwAAFgEAAEIDAAAKAQAAFAMAAAIBAADkAgAAAAEAALMCAAAAAQAAswIAAAIBAACCAgAACgEAAFICAAAWAQAAJAIAACYBAAD3AQAAOgEAAM0BAABSAQAApgEAAG4BAACAAQAAjQEAAF4BAACvAQAAPwEAANQBAAAjAQAA/AEAAAsBAAAmAgAA9wAAAFICAADnAAAAgAIAANsAAACwAgAA0wAAAOECAADRAAAAEgMAANMAAABCAwAA2wAAAHADAADnAAAAnAMAAPcAAADGAwAACwEAAO4DAAAjAQAAEwQAAD8BAAA1BAAAXgEAAFQEAACAAQAAcAQAAKUBAACIBAAAzQEAAJwEAAD3AQAArAQAACMCAAC4BAAAUQIAAMAEAACBAgAAwgQAALICAADCBAAAswIAAAEAAAABAK4AAAATAMIEAACzAgAAwgQAALwDAADrAwAAlAQAAOECAACUBAAA2AEAAJQEAAAAAQAAvQMAAAABAACzAgAAAAEAALMCAAAAAQAAswIAAAABAACzAgAAAAEAAKkBAADXAQAA0QAAAOECAADRAAAA6gMAANEAAADCBAAAqAEAAMIEAACyAgAAwgQAALICAADCBAAAsgIAAMIEAACzAgAAAQACAgACAgACAgACAgACAgACAgCEAAEABQAAAAAAAAAAhQABAAUAAAAAAAAAAW8AAgCMDQAABABBAGgEAAArAQAAjgQAAFQBAACuBAAAfwEAAMoEAACtAQAA4AQAAN0BAADyBAAADwIAAP4EAABDAgAABgUAAHoCAAAIBQAAswIAAAYFAADsAgAA/gQAACIDAADyBAAAVgMAAOEEAACHAwAAygQAALYDAACvBAAA4wMAAJAEAAAOBAAAawQAADYEAABABAAAXQQAABMEAAB+BAAA5QMAAJoEAAC1AwAAsQQAAIIDAADDBAAATgMAANAEAAAYAwAA1wQAAOACAADaBAAAqQIAANcEAABzAgAA0AQAAEACAADDBAAADwIAALIEAADfAQAAmwQAALIBAAB/BAAAhgEAAF4EAABdAQAAOAQAADcBAAAOBAAAFgEAAOIDAAD6AAAAtQMAAOMAAACFAwAA0QAAAFMDAADEAAAAIAMAAL0AAADqAgAAugAAALMCAAC9AAAAewIAAMQAAABGAgAA0QAAABICAADjAAAA4AEAAPoAAACwAQAAFgEAAIEBAAA3AQAAVQEAAF0BAAArAQAAhgEAAAUBAACwAQAA5QAAAN4BAADJAAAADQIAALMAAAA+AgAAoQAAAHICAACVAAAAqAIAAI0AAADgAgAAiwAAABkDAACNAAAAUAMAAJUAAACEAwAAoQAAALYDAACzAAAA5gMAAMkAAAATBAAA5QAAAD8EAAAFAQAAaAQAACsBAABBAKQBAABzAQAAhAEAAJYBAABpAQAAugEAAFIBAADgAQAAPwEAAAcCAAAwAQAAMAIAACUBAABaAgAAHwEAAIYCAAAdAQAAswIAAB8BAADgAgAAJQEAAAsDAAAwAQAANQMAAD8BAABeAwAAUQEAAIUDAABpAQAAqgMAAIQBAADOAwAAowEAAPADAADFAQAADwQAAOkBAAAqBAAADwIAAEIEAAA2AgAAVAQAAF4CAABjBAAAiQIAAG4EAAC1AgAAdAQAAOICAAB2BAAADwMAAHQEAAA7AwAAbgQAAGYDAABjBAAAjwMAAFQEAAC2AwAAQQQAANwDAAAqBAAAAAQAAA8EAAAjBAAA7wMAAEIEAADPAwAAXAQAAKwDAAByBAAAiAMAAIUEAABhAwAAkwQAADkDAACdBAAADgMAAKMEAADiAgAApQQAALMCAACjBAAAhQIAAJ0EAABYAgAAkgQAAC0CAACEBAAABAIAAHEEAADdAQAAWwQAALgBAABABAAAlAEAACEEAAByAQAA/wMAAFMBAADcAwAAOAEAALYDAAAiAQAAjwMAAA8BAABnAwAAAQEAADwDAAD2AAAAEAMAAPAAAADiAgAA7gAAALQCAADwAAAAiAIAAPYAAABdAgAAAQEAADUCAAAPAQAADgIAACIBAADpAQAAOQEAAMYBAABUAQAApAEAAHMBAABTAJICAAB9AgAAjAIAAHICAACGAgAAaQIAAH8CAABiAgAAeAIAAFsCAABwAgAAVgIAAGcCAABTAgAAXgIAAFECAABUAgAAUAIAAEMCAABSAgAANAIAAFYCAAAnAgAAXgIAAB0CAABpAgAAFQIAAHYCAAAQAgAAhwIAAAwCAACbAgAACwIAALICAAAMAgAAyQIAABACAADdAgAAFQIAAO4CAAAdAgAA+wIAACcCAAAGAwAANAIAAA4DAABDAgAAEgMAAFQCAAAUAwAAYAIAABMDAABqAgAAEQMAAHQCAAANAwAAfQIAAAgDAACFAgAAAQMAAI0CAAD5AgAAkwIAAO8CAACZAgAA5AIAANwCAAAIAwAAzwIAABwDAADBAgAALQMAALECAAA8AwAAoAIAAEgDAACNAgAAUgMAAHkCAABZAwAAYwIAAF0DAABLAgAAXgMAADkCAABdAwAAKAIAAFsDAAAYAgAAWAMAAAgCAABTAwAA+gEAAEwDAADsAQAARAMAAOABAAA7AwAA1AEAADADAADJAQAAJAMAAMABAAAXAwAAuQEAAAkDAACzAQAA+gIAAK4BAADqAgAAqwEAANkCAACpAQAAxgIAAKgBAACzAgAAqQEAAKACAACrAQAAjQIAAK4BAAB8AgAAswEAAGwCAAC6AQAAXQIAAMIBAABPAgAAywEAAEICAADWAQAANgIAAOIBAAArAgAA7gEAACICAAD7AQAAGgIAAAoCAAATAgAAGAIAAA4CAAAoAgAACgIAADgCAAAIAgAASQIAAAcCAABiAgAACAIAAHgCAAAMAgAAjQIAABICAACgAgAAGwIAALICAAAnAgAAwQIAADUCAADPAgAARQIAANsCAABYAgAAkgIAAH0CAABTAM8DAAB9AgAAyQMAAHICAADDAwAAaQIAAL0DAABiAgAAtQMAAFsCAACtAwAAVgIAAKUDAABTAgAAnAMAAFECAACSAwAAUAIAAIEDAABSAgAAcgMAAFYCAABlAwAAXgIAAFsDAABpAgAAUgMAAHYCAABNAwAAhwIAAEkDAACbAgAASAMAALICAABJAwAAyQIAAE0DAADdAgAAUgMAAO4CAABbAwAA+wIAAGUDAAAGAwAAcgMAAA4DAACBAwAAEgMAAJIDAAAUAwAAngMAABMDAACoAwAAEQMAALIDAAANAwAAuwMAAAgDAADDAwAAAQMAAMoDAAD5AgAA0QMAAO8CAADWAwAA5AIAABsEAAAIAwAADgQAABwDAAAABAAALQMAAPADAAA8AwAA3wMAAEgDAADMAwAAUgMAALcDAABZAwAAoQMAAF0DAACKAwAAXgMAAHgDAABdAwAAZwMAAFsDAABXAwAAWAMAAEcDAABTAwAAOQMAAEwDAAArAwAARAMAAB8DAAA7AwAAEwMAADADAAAJAwAAJAMAAAADAAAXAwAA+AIAAAkDAADyAgAA+gIAAO0CAADqAgAA6gIAANkCAADoAgAAxgIAAOcCAACzAgAA6AIAAKACAADqAgAAjQIAAO0CAAB8AgAA8gIAAGwCAAD5AgAAXQIAAAADAABPAgAACQMAAEICAAAUAwAANgIAACADAAArAgAALAMAACICAAA5AwAAGgIAAEgDAAATAgAAVwMAAA4CAABmAwAACgIAAHcDAAAIAgAAiAMAAAcCAACgAwAACAIAALcDAAAMAgAAzAMAABICAADfAwAAGwIAAPADAAAnAgAAAAQAADUCAAANBAAARQIAABkEAABYAgAAzwMAAH0CAAAEAAAAAQDkAAAAGQBoBAAAKwEAANMEAACVAQAACAUAABgCAAAIBQAAswIAAAgFAABNAwAA0wQAAM4DAABrBAAANgQAAPsDAACkBAAAeAMAANoEAADgAgAA2gQAAEoCAADaBAAAyQEAAKQEAABdAQAAOAQAAPAAAADLAwAAugAAAEkDAAC6AAAAswIAALoAAAAcAgAA8AAAAJkBAABdAQAAKwEAAMYBAADAAAAASAIAAIsAAADgAgAAiwAAAHsDAACLAAAA/QMAAMAAAABoBAAAKwEAAAEAAgIBAgIAAgIBAgIAAgIBAgIAAgIBAgIAAQABAOQAAAAZAKQBAABzAQAASgEAAM4BAAAdAQAAOAIAAB0BAACzAgAAHQEAAC0DAABKAQAAlwMAAKMBAADwAwAA/AEAAEkEAABnAgAAdgQAAOICAAB2BAAAXQMAAHYEAADIAwAASQQAACMEAADvAwAAegQAAJsDAAClBAAAMgMAAKUEAACzAgAApQQAADUCAAB5BAAAygEAACEEAAByAQAAyQMAABoBAABfAwAA7gAAAOICAADuAAAAZQIAAO4AAAD7AQAAGgEAAKQBAABzAQAAAQACAgECAgACAgECAgACAgECAgACAgECAgACAAEALAEAACEAkgIAAH0CAACEAgAAXwIAAG8CAABQAgAAVAIAAFACAAAjAgAAUAIAAAsCAABxAgAACwIAALICAAALAgAA8wIAACMCAAAUAwAAVAIAABQDAAB0AgAAFAMAAIsCAAAEAwAAmQIAAOQCAADcAgAACAMAALwCAABBAwAAjAIAAF4DAABLAgAAXgMAABoCAABeAwAA8gEAAE8DAADU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AgAACAMAAM8CAAAcAwAAwQIAAC0DAACxAgAAPAMAAKACAABIAwAAjQIAAFIDAAB5AgAAWQMAAGMCAABdAwAASwIAAF4DAAA5AgAAXQMAACgCAABbAwAAGAIAAFgDAAAIAgAAUwMAAPoBAABMAwAA7AEAAEQDAADgAQAAOwMAANQBAAAwAwAAyQEAACQDAADAAQAAFwMAALkBAAAJAwAAswEAAPoCAACuAQAA6gIAAKsBAADZAgAAqQEAAMYCAACoAQAAswIAAKkBAACgAgAAqwEAAI0CAACuAQAAfAIAALMBAABsAgAAugEAAF0CAADCAQAATwIAAMsBAABCAgAA1gEAADYCAADiAQAAKwIAAO4BAAAiAgAA+wEAABoCAAAKAgAAEwIAABgCAAAOAgAAKAIAAAoCAAA4AgAACAIAAEkCAAAHAgAAYgIAAAgCAAB4AgAADAIAAI0CAAASAgAAoAIAABsCAACyAgAAJwIAAMECAAA1AgAAzwIAAEUCAADbAgAAWAIAAJICAAB9AgAAUwDPAwAAfQIAAMkDAAByAgAAwwMAAGkCAAC9AwAAYgIAALUDAABbAgAArQMAAFYCAAClAwAAUwIAAJwDAABRAgAAkgMAAFACAACBAwAAUgIAAHIDAABWAgAAZQMAAF4CAABbAwAAaQIAAFIDAAB2AgAATQMAAIcCAABJAwAAmwIAAEgDAACyAgAASQMAAMkCAABNAwAA3QIAAFIDAADuAgAAWwMAAPsCAABlAwAABgMAAHIDAAAOAwAAgQMAABIDAACSAwAAFAMAAJ4DAAATAwAAqAMAABEDAACyAwAADQMAALsDAAAIAwAAwwMAAAEDAADKAwAA+QIAANEDAADvAgAA1gMAAOQCAAAbBAAACAMAAA4EAAAcAwAAAAQAAC0DAADwAwAAPAMAAN8DAABIAwAAzAMAAFIDAAC3AwAAWQMAAKEDAABdAwAAigMAAF4DAAB4AwAAXQMAAGcDAABbAwAAVwMAAFgDAABHAwAAUwMAADkDAABMAwAAKwMAAEQDAAAfAwAAOwMAABMDAAAwAwAACQMAACQDAAAAAwAAFwMAAPgCAAAJAwAA8gIAAPoCAADtAgAA6gIAAOoCAADZAgAA6AIAAMYCAADnAgAAswIAAOgCAACgAgAA6gIAAI0CAADtAgAAfAIAAPICAABsAgAA+QIA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DAAArQQAACMMAACpBAAAGwwAAKcEAAAKDAAApQQAAP4LAACnBAAA8gsAAKsEAADuCwAArwQAAOoLAAC0BAAA6AsAALkEAADnCwAAwAQAAOgLAADGBAAA6gsAAMsEAADuCwAAzwQAAPQLAADTBAAA/QsAANcEAAAJDAAA2gQAABkMAADfBAAALQwAAOMEAAA1DAAA5QQAAD8MAADoBAAASgwAAOwEAABWDAAA8wQAAGAMAAD8BAAAaQwAAAcFAABwDAAAFgUAAHEMAAAeBQAAcgwAACcFAABxDAAANwUAAGwMAABFBQAAZAwAAFIFAABZDAAAXQUAAEwMAABmBQAAOwwAAG0FAAAnDAAAcQUAABEMAAByBQAA/gsAAHEFAADrCwAAbQUAANoLAABnBQAAywsAAF4FAAC/CwAAUwUAALULAABEBQAArwsAADMFAACuCwAAKgUAAK0LAAAfBQAA3wsAAB8FAADgCwAAKgUAAOMLAAAzBQAAAQAAAAEALgUAAJMA4wsAADMFAADmCwAAOQUAAOoLAAA9BQAA7gsAAEAFAADzCwAARAUAAPkLAABGBQAA/wsAAEgFAAAFDAAASgUAAAwMAABKBQAAEwwAAEoFAAAXDAAASgUAABwMAABKBQAAIQwAAEkFAAAmDAAASAUAACsMAABHBQAAMAwAAEUFAAA0DAAAQwUAADgMAABABQAAOwwAADwFAAA+DAAAOAUAAEAMAAAzBQAAQAwAAC0FAABADAAAJwUAAD4MAAAiBQAAOgwAAB4FAAA2DAAAGgUAADEMAAAXBQAAKgwAABQFAAAkDAAAEQUAABwMAAAPBQAAFAwAAA0FAAAMDAAACwUAAAMMAAAJBQAA+wsAAAcFAADyCwAABAUAAOkLAAACBQAA4QsAAP8EAADZCwAA+wQAANELAAD3BAAAywsAAPIEAADECwAA7QQAAL8LAADnBAAAuwsAAOAEAAC3CwAA2AQAALULAADPBAAAtQsAAMQEAAC1CwAAuAQAALgLAACuBAAAvQsAAKUEAADCCwAAnAQAAMkLAACVBAAA0QsAAI8EAADZCwAAiQQAAOILAACFBAAA7QsAAIIEAAD3CwAAfwQAAAIMAAB+BAAADAwAAH4EAAAZDAAAfgQAACQMAAB/BAAALwwAAIIEAAA7DAAAhAQAAEUMAACJBAAATQwAAI8EAABWDAAAlQQAAF0MAACdBAAAYgwAAKYEAABnDAAAsAQAAGoMAAC7BAAAagwAAMkEAAA4DAAAyQQAADgMAADCBAAANgwAALwEAAA0DAAAtwQAADEMAACzBAAALgwAAK8EAAAqDAAArQQAACYMAACqBAAAIQwAAKgEAAAbDAAApwQAABYMAACmBAAAEAwAAKUEAAAKDAAApQQAAAYMAAClBAAAAgwAAKYEAAD+CwAApwQAAPoLAACoBAAA9gsAAKkEAADyCwAAqwQAAO8LAACuBAAA7AsAALAEAADqCwAAtAQAAOgLAAC3BAAA5wsAALsEAADnCwAAwAQAAOcLAADFBAAA6AsAAMgEAADqCwAAywQAAOsLAADOBAAA7wsAANEEAAD0CwAA0wQAAPkLAADVBAAAAAwAANgEAAAJDAAA2gQAABIMAADdBAAAHgwAAOAEAAAtDAAA4wQAADEMAADkBAAANwwAAOYEAAA/DAAA6AQAAEYMAADqBAAATgwAAO4EAABWDAAA8wQAAF0MAAD4BAAAZAwAAP8EAABpDAAABwUAAG8MAAAQBQAAcgwAABoFAAByDAAAJwUAAHIMAAAyBQAAcAwAADwFAABsDAAARQUAAGcMAABOBQAAYQwAAFYFAABZDAAAXQUAAFEMAABkBQAARwwAAGkFAAA7DAAAbQUAAC8MAABwBQAAIAwAAHIFAAARDAAAcgUAAAQMAAByBQAA9wsAAHAFAADrCwAAbQUAAN8LAABqBQAA1AsAAGUFAADLCwAAXgUAAMILAABYBQAAugsAAE8FAAC1CwAARAUAALALAAA6BQAArQsAAC4FAACtCwAAHwUAAN8LAAAfBQAA3wsAACcFAADgCwAALgUAAOMLAAAzBQAAAQACAgACAgACAgECAgACAgACAgACAgECAgACAgACAgACAgACAgACAgACAgACAgECAgACAgACAgACAgECAgACAgACAgACAgAAAgIAAgIAAgIAAgIBAgIAAgIAAgIAAgIBAgIAAgIDAgIAAgIAAgIAAgIAAgIAAgIBAgIAAgIAAgIAAgIBAgIAAgIAAgIAAgIAAAICAIUAAQAFAAAAAAAAAACEAAEABQAAAAAAAAAAbwACACwIAAABAF4A4wsAADMFAADoCwAAOwUAAO4LAABABQAA9gsAAEUFAAD/CwAASAUAAAkMAABKBQAAEwwAAEoFAAAhDAAASQUAADAMAABFBQAANgwAAEEFAAA7DAAAPAUAAD8MAAA1BQAAQAwAAC0FAAA/DAAAJQUAADoMAAAeBQAAMwwAABkFAAAqDAAAFAUAACAMAAAQBQAAFAwAAA0FAAD7CwAABwUAAOELAAD/BAAA1QsAAPkEAADLCwAA8gQAAMILAADqBAAAuwsAAOAEAAC3CwAA0wQAALULAADEBAAAtwsAALMEAAC9CwAApQQAAMYLAACZBAAA0QsAAI8EAADeCwAAhwQAAO0LAACCBAAA/QsAAH8EAAAMDAAAfgQAAB4MAAB/BAAALwwAAIIEAABADAAAhwQAAE0MAACPBAAAWQwAAJkEAABiDAAApgQAAGgMAAC2BAAAagwAAMkEAAA4DAAAyQQAADcMAAC/BAAANAwAALcEAAAvDAAAsQQAACoMAACtBAAAIwwAAKkEAAAbDAAApwQAAAoMAAClBAAA/gsAAKcEAADyCwAAqwQAAO4LAACvBAAA6gsAALQEAADoCwAAuQQAAOcLAADABAAA6AsAAMYEAADqCwAAywQAAO4LAADPBAAA9AsAANMEAAD9CwAA1wQAAAkMAADaBAAAGQwAAN8EAAAtDAAA4wQAADUMAADlBAAAPwwAAOgEAABKDAAA7AQAAFYMAADzBAAAYAwAAPwEAABpDAAABwUAAHAMAAAWBQAAcQwAAB4FAAByDAAAJwUAAHEMAAA3BQAAbAwAAEUFAABkDAAAUgUAAFkMAABdBQAATAwAAGYFAAA7DAAAbQUAACcMAABxBQAAEQwAAHIFAAD+CwAAcQUAAOsLAABtBQAA2gsAAGcFAADLCwAAXgUAAL8LAABTBQAAtQsAAEQFAACvCwAAMwUAAK4LAAAqBQAArQsAAB8FAADfCwAAHwUAAOALAAAqBQAA4wsAADMFAAABAAAAAQAuBQAAkwDjCwAAMwUAAOYLAAA5BQAA6gsAAD0FAADuCwAAQAUAAPMLAABEBQAA+QsAAEYFAAD/CwAASAUAAAUMAABKBQAADAwAAEoFAAATDAAASgUAABcMAABKBQAAHAwAAEoFAAAhDAAASQUAACYMAABIBQAAKwwAAEcFAAAwDAAARQUAADQMAABDBQAAOAwAAEAFAAA7DAAAPAUAAD4MAAA4BQAAQAwAADMFAABADAAALQUAAEAMAAAnBQAAPgwAACIFAAA6DAAAHgUAADYMAAAaBQAAMQwAABcFAAAqDAAAFAUAACQMAAARBQAAHAwAAA8FAAAUDAAADQUAAAwMAAALBQAAAwwAAAkFAAD7CwAABwUAAPILAAAEBQAA6QsAAAIFAADhCwAA/wQAANkLAAD7BAAA0QsAAPcEAADLCwAA8gQAAMQLAADtBAAAvwsAAOcEAAC7CwAA4AQAALcLAADYBAAAtQsAAM8EAAC1CwAAxAQAALULAAC4BAAAuAsAAK4EAAC9CwAApQQAAMILAACcBAAAyQsAAJUEAADRCwAAjwQAANkLAACJBAAA4gsAAIUEAADtCwAAggQAAPcLAAB/BAAAAgwAAH4EAAAMDAAAfgQAABkMAAB+BAAAJAwAAH8EAAAvDAAAggQAADsMAACEBAAARQwAAIkEAABNDAAAjwQAAFYMAACVBAAAXQwAAJ0EAABiDAAApgQAAGcMAACwBAAAagwAALsEAABqDAAAyQQAADgMAADJBAAAOAwAAMIEAAA2DAAAvAQAADQMAAC3BAAAMQwAALMEAAAuDAAArwQAACoMAACtBAAAJgwAAKoEAAAhDAAAqAQAABsMAACnBAAAFgwAAKYEAAAQDAAApQQAAAoMAAClBAAABgwAAKUEAAACDAAApgQAAP4LAACnBAAA+gsAAKgEAAD2CwAAqQQAAPILAACrBAAA7wsAAK4EAADsCwAAsAQAAOoLAAC0BAAA6AsAALcEAADnCwAAuwQAAOcLAADABAAA5wsAAMUEAADoCwAAyAQAAOoLAADLBAAA6wsAAM4EAADvCwAA0QQAAPQLAADTBAAA+QsAANUEAAAADAAA2AQAAAkMAADaBAAAEgwAAN0EAAAeDAAA4AQAAC0MAADjBAAAMQwAAOQEAAA3DAAA5gQAAD8MAADoBAAARgwAAOoEAABODAAA7gQAAFYMAADzBAAAXQwAAPgEAABkDAAA/wQAAGkMAAAHBQAAbwwAABAFAAByDAAAGgUAAHIMAAAnBQAAcgwAADIFAABwDAAAPAUAAGwMAABFBQAAZwwAAE4FAABhDAAAVgUAAFkMAABdBQAAUQwAAGQFAABHDAAAaQUAADsMAABtBQAALwwAAHAFAAAgDAAAcgUAABEMAAByBQAABAwAAHIFAAD3CwAAcAUAAOsLAABtBQAA3wsAAGoFAADUCwAAZQUAAMsLAABeBQAAwgsAAFgFAAC6CwAATwUAALULAABEBQAAsAsAADoFAACtCwAALgUAAK0LAAAfBQAA3wsAAB8FAADfCwAAJwUAAOALAAAuBQAA4wsAADMFAAABAAICAAICAAICAQICAAICAAICAAICAQICAAICAAICAAICAAICAAICAAICAAICAQICAAICAAICAAICAQICAAICAAICAAICAAACAgACAgACAgACAgECAgACAgACAgACAgECAgACAgMCAgACAgACAgACAgACAgACAgECAgACAgACAgACAgECAgACAgACAgACAgAAAgIAhAABAAUAAAAAAAAAAIUAAQAFAAAA////AAFvAAIAeAAAAAIACQAFDQAAgwQAAFwNAABtBQAAJw0AAG0FAAAVDQAAOQUAAL4MAAA5BQAAqwwAAG0FAAB4DAAAbQUAANAMAACDBAAABQ0AAIMEAAAFAAgNAAASBQAA6gwAAL0EAADqDAAAvQQAAMsMAAASBQAACA0AABIFAAAAAIUAAQAFAAAAAAAAAACEAAEABQAAAAAAAAAAbwACAHgAAAACAAkABQ0AAIMEAABcDQAAbQUAACcNAABtBQAAFQ0AADkFAAC+DAAAOQUAAKsMAABtBQAAeAwAAG0FAADQDAAAgwQAAAUNAACDBAAABQAIDQAAEgUAAOoMAAC9BAAA6gwAAL0EAADLDAAAEgUAAAgNAAASBQAAAACEAAEABQAAAAAAAAAAhQABAAUAAAD///8AAW8AAgAwBQAAAwAiAEUIAACDBAAAVQgAAIQEAABjCAAAhgQAAHAIAACKBAAAewgAAJAEAACDCAAAmAQAAIoIAACiBAAAjggAAK4EAACPCAAAvQQAAI0IAADOBAAAiwgAANUEAACHCAAA2wQAAH0IAADlBAAAbwgAAO4EAAB6CAAA8gQAAIMIAAD2BAAAiggAAPwEAACQCAAABAUAAJUIAAAMBQAAmAgAABUFAACaCAAAHgUAAJsIAAApBQAAmQgAADoFAACUCAAASAUAAIwIAABTBQAAgQgAAF0FAAB0CAAAZAUAAGcIAABpBQAAWAgAAGwFAABICAAAbQUAANYHAABtBQAA1gcAAIMEAABFCAAAgwQAAEUIAACDBAAAEAA+CAAA4gQAAEsIAADgBAAAVQgAANsEAABbCAAA0wQAAFwIAADNBAAAXQgA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DAAAwQAAAAEBAgIAAgIBAgIAAgIBAgIAAgIBAgIAAgIAhAABAAUAAAAAAAAAAIUAAQAFAAAAAAAAAAFvAAIADwQAAAEAXgDvCwAA1wEAAPMLAADEAQAA+AsAALMBAAD+CwAAogEAAAUMAACTAQAADgwAAIUBAAAXDAAAeAEAACEMAABsAQAALQwAAGEBAABGDAAAUAEAAGMMAABDAQAAggwAADwBAACjDAAAOQEAALsMAAA6AQAA0QwAAD0BAADnDAAAQwEAAPsMAABKAQAADQ0AAFMBAAAfDQAAXgEAAC4NAABqAQAAPQ0AAHgBAABKDQAAiAEAAFUNAACZAQAAXg0AAKsBAABmDQAAvgEAAG0NAADTAQAAcQ0AAOgBAAB0DQAA/wEAAHUNAAAWAgAAdA0AAC0CAABxDQAAQwIAAGwNAABYAgAAZg0AAGwCAABdDQAAfwIAAFMNAACRAgAASA0AAKICAAA7DQAAsgIAACwNAADAAgAAHA0AAMwCAAAKDQAA1wIAAPgMAADgAgAA5AwAAOcCAADPDAAA7QIAALgMAADwAgAAoQwAAPECAACBDAAA7gIAAGIMAADnAgAARQwAANoCAAArDAAAyQIAAB8MAAC+AgAAFAwAALICAAAKDAAApQIAAAIMAACXAgAA+gsAAIcCAAD0CwAAdgIAAO8LAABkAgAA7AsAAFECAABTDAAAUQIAAFYMAABkAgAAWwwAAHQCAABjDAAAgQIAAG4MAACLAgAAewwAAJICAACKDAAAlwIAAJsMAACaAgAArQwAAJsCAADCDAAAmQIAANQMAACRAgAA5QwAAIYCAADzDAAAdgIAAP4MAABiAgAABg0AAEsCAAALDQAAMAIAAA0NAAATAgAACw0AAPQBAAAHDQAA2gEAAP8MAADDAQAA9QwAALABAADoDAAAoQEAANcMAACXAQAAxQwAAJABAACvDAAAjgEAAJ4MAACPAQAAjwwAAJIBAACADAAAlgEAAHMMAACeAQAAaAwAAKcBAABeDAAAtAEAAFcMAADEAQAAUwwAANcBAABxDAAA1wEAACAMAAAoAgAAzwsAANcBAADvCwAA1wEAAAEAAAABABEBAAAeAO8LAADXAQAA/wsAAHABAABIDAAAOQEAAKMMAAA5AQAAJQ0AADkBAAB1DQAAmAEAAHUNAAAWAgAAdQ0AAJECAAAg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AEAHAAB0AQAAMwcAAJkBAAAqBwAAvwEAACQHAADnAQAAIgcAABACAAAkBwAAOQIAACoHAABhAgAAMwcAAIcCAABABwAArAIAAFEHAADPAgAAZgcAAPECAAB+BwAAEgMAAJoHAAAxAwAAuQcAAE0DAADaBwAAZgMAAPsHAAB6AwAAHwgAAIwDAABDCAAAmQMAAGoIAACiAwAAkQgAAKgDAAC6CAAAqgMAAOQIAACoAwAADAkAAKIDAAAzCQAAmQMAAFgJAACLAwAAfAkAAHoDAACfCQAAZQMAAMAJAABMAwAA3wkAADADAAD6CQAAEgMAABIKAADzAgAAJgoAANECAAA3CgAArgIAAEQKAACJAgAATQoAAGMCAABSCgAAOgIAAFQKAAAQAgAAUgoAAOYBAABNCgAAvgEAAEMKAACXAQAANgoAAHIBAAAlCgAATgEAABEKAAAtAQAA+QkAAAwBAADdCQAA7gAAAL8JAADSAAAAngkAALoAAAB9CQAApgAAAFkJAACVAAAANAkAAIgAAAANCQAAfgAAAOQIAAB5AAAAuggAAHcAAABBALsIAADBAAAA3QgAAMMAAAD+CAAAxwAAAB4JAADPAAAAPAkAANoAAABZCQAA5wAAAHUJAAD4AAAAjwkAAAwBAACoCQAAIwEAAL8JAAA8AQAA0wkAAFYBAADkCQAAcgEAAPEJAACPAQAA/AkAAK0BAAAECgAAzQEAAAgKAADuAQAACgoAABACAAAJCgAAMwIAAAQKAABUAgAA/QkAAHQCAADyCQAAkgIAAOUJAACuAgAA1AkAAMkCAADBCQAA4wIAAKoJAAD7AgAAkAkAABIDAAB1CQAAJgMAAFkJAAA4AwAAPAkAAEYDAAAdCQAAUQMAAP4IAABZAwAA3QgAAF0DAAC7CAAAXwMAAJkIAABdAwAAeQgAAFkDAABaCAAAUQMAADwIAABGAwAAHwgAADgDAAADCAAAJwMAAOgHAAATAwAAzwcAAPwCAAC3BwAA4wIAAKMHAADIAgAAkgcAAKwCAACEBwAAjwIAAHkHAABxAgAAcQcAAFICAABtBwAAMgIAAGsHAAAQAgAAbQcAAO8BAABxBwAAzwEAAHkHAACvAQAAhAcAAJEBAACTBwAAdAEAAKQHAABYAQAAuAcAAD0BAADQBwAAIwEAAOkHAAAMAQAAAwgAAPgAAAAeCAAA5wAAADsIAADaAAAAWQgAAM8AAAB4CAAAxwAAAJkIAADDAAAAuwgAAMEAAAACAAAAAQDkAAAAGQC6CAAAdwAAAEkIAAB3AAAA6QcAAJ8AAACaBwAA7gAAAEoHAABAAQAAIgcAAKEBAAAiBwAAEAIAACIHAACAAgAASgcAAOACAACaBwAAMQMAAOsHAACBAwAASwgAAKoDAAC6CAAAqgMAACsJAACqAwAAjQkAAIEDAADfCQAAMAMAAC0KAADjAgAAVAoAAIMCAABUCgAAEAIAAFQKAACeAQAALAoAAD0BAADdCQAA7gAAAI4JAACfAAAALQkAAHcAAAC6CAAAdwAAAAEBAgIAAgIDAgIAAgIBAgIAAgIBAgIAAgIAAQABAOQAAAAZALsIAADBAAAAGAkAAMEAAABnCQAA4gAAAKgJAAAjAQAA6QkAAGQBAAAKCgAAswEAAAoKAAAQAgAACgoAAG8CAADqCQAAvQIAAKoJAAD7AgAAZgkAAD0DAAAXCQAAXwMAALsIAABfAwAAYAgAAF8DAAARCAAAPgMAAM8HAAD8AgAAjAcAALoCAABrBwAAawIAAGsHAAAQAgAAawcAALYBAACNBwAAZwEAANAHAAAjAQAAEAgAAOIAAABeCAAAwQAAALsIAADBAAAAAQECAgACAgECAgACAgECAgACAgECAgACAgA=</office:binary-data>
+                  <text:p/>
+               </draw:image>
+            </draw:frame>
+            <draw:frame draw:style-name="gr12" draw:text-style-name="P2" draw:layer="layout"
+                        svg:width="19.59cm"
+                        svg:height="11.728cm"
+                        svg:x="1cm"
+                        svg:y="10.042cm">
+               <draw:text-box>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">This work by Douglas P Perkins is available under a Creative Commons Share Alike-Attribution 3.0 License.</text:span> 
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">For attribution, link to the following 2 pages and mention my name, Douglas P Perkins.</text:span> 
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">This work depends on the files listed below, as well.</text:span> 
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">
+                        <text:a xlink:href="https://dperkins.org/kanji/">https://dperkins.org/kanji/</text:a>
+                     </text:span>
+                     <text:span text:style-name="T1"> </text:span>
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">
+                        <text:a xlink:href="https://identi.ca/dper/">https://identi.ca/dper/</text:a>
+                     </text:span>
+                     <text:span text:style-name="T1"> </text:span>
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">
+                        <text:a xlink:href="http://creativecommons.org/licenses/by-sa/3.0/">http://creativecommons.org/licenses/by-sa/3.0/</text:a>
+                     </text:span>
+                     <text:span text:style-name="T1"> </text:span>
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T2"/>
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T3">kanjidic2.xml</text:span> 
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">Retrieved 2011-02-21.</text:span> 
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">Copyright by The Electronic Dictionary Research and Development Group.</text:span> 
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">Available under Creative Commons Share Alike-Attribution 3.0 License.</text:span> 
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">
+                        <text:a xlink:href="http://www.csse.monash.edu.au/~jwb/kanjidic2/">http://www.csse.monash.edu.au/~jwb/kanjidic2/</text:a>
+                     </text:span>
+                     <text:span text:style-name="T1"> </text:span>
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">
+                        <text:a xlink:href="http://www.csse.monash.edu.au/~jwb/kanjidic2/kanjidic2.xml.gz">http://www.csse.monash.edu.au/~jwb/kanjidic2/kanjidic2.xml.gz</text:a>
+                     </text:span>
+                     <text:span text:style-name="T1"> </text:span>
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">
+                        <text:a xlink:href="http://creativecommons.org/licenses/by-sa/3.0/">http://creativecommons.org/licenses/by-sa/3.0/</text:a>
+                     </text:span>
+                     <text:span text:style-name="T1"> </text:span>
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1"/>
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T3">edict.txt</text:span> 
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">Retrieved 2011-02-21.</text:span> 
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">Copyright by the Electronic Dictionary Research and Development Group.</text:span> 
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">Available under Creative Commons Share Alike-Attribution 3.0 License.</text:span> 
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">
+                        <text:a xlink:href="http://www.csse.monash.edu.au/~jwb/kanjidic.html">http://www.csse.monash.edu.au/~jwb/kanjidic.html</text:a>
+                     </text:span>
+                     <text:span text:style-name="T1"> </text:span>
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">
+                        <text:a xlink:href="http://ftp.monash.edu.au/pub/nihongo/kanjidic.gz">http://ftp.monash.edu.au/pub/nihongo/kanjidic.gz</text:a>
+                     </text:span>
+                     <text:span text:style-name="T1"> </text:span>
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">
+                        <text:a xlink:href="http://creativecommons.org/licenses/by-sa/3.0/">http://creativecommons.org/licenses/by-sa/3.0/</text:a>
+                     </text:span>
+                     <text:span text:style-name="T1"> </text:span>
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1"/>
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T3">wordfreq_ck</text:span> 
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">Retrieved 2011-02-21.</text:span> 
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">File is in the public domain.</text:span> 
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">
+                        <text:a xlink:href="http://www.bcit-broadcast.com/monash/">http://www.bcit-broadcast.com/monash/</text:a>
+                     </text:span>
+                     <text:span text:style-name="T1"> </text:span>
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">
+                        <text:a xlink:href="http://www.bcit-broadcast.com/monash/wordfreq_ck.gz">http://www.bcit-broadcast.com/monash/wordfreq_ck.gz</text:a>
+                     </text:span>
+                     <text:span text:style-name="T1"> </text:span>
+                  </text:p>
+                  <text:p text:style-name="P1">
+                     <text:span text:style-name="T1">
+                        <text:a xlink:href="http://www.bcit-broadcast.com/monash/wordfreq.README">http://www.bcit-broadcast.com/monash/wordfreq.README</text:a>
+                     </text:span>
+                     <text:span text:style-name="T1"> </text:span>
+                  </text:p>
+               </draw:text-box>
+            </draw:frame>
+         </draw:page>
+      </office:drawing>
+   </office:body>
+</office:document>
