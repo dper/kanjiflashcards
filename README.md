@@ -14,13 +14,13 @@ The script `cardmaker.rb` is licensed under the GPL v3.0.  The resultant flashca
 
 * `kanjidic2.xml`. Retrieved 2011-02-21. <http://www.csse.monash.edu.au/~jwb/kanjidic2/>. Copyright by The Electronic Dictionary Research and Development Group. [Creative Commons Share Alike-Attribution 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/).
 
-* `edict.txt`. Retrieved 2016-03-18. <http://www.csse.monash.edu.au/~jwb/edict.html>. Copyright by the Electronic Dictionary Research and Development Group. [Creative Commons Share Alike-Attribution 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/)
+* `edict.txt`. Retrieved 2016-03-18. <http://www.csse.monash.edu.au/~jwb/edict.html>. Copyright by the Electronic Dictionary Research and Development Group. [Creative Commons Share Alike-Attribution 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/).
 	
 * `wordfreq_ck`. Retrieved 2016-03-18. <http://ftp.monash.edu.au/pub/nihongo/00INDEX.html>. Public domain.
 
-# See also
+# Contact
 
-If you have any questions or comments, feel free to contact the author.
+If you have any questions or comments, feel free to contact the author, Douglas Perkins.
 
 * <https://dperkins.org/arc/2011-03-22.kanji%20flashcards.html>
 * <https://identi.ca/dper/>
