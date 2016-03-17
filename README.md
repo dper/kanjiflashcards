@@ -1,6 +1,12 @@
+Paper flashcards for studying kanji.
+
 # Description
 
-To produce the flashcard files found here, the script cardmaker.rb is used.  The script first looks up kanji by grade level, using kanjidic2.xml.  That file gives kanji along with grade level, stroke count, English meaning, onyomi, and kunyomi.  To find word examples for a kanji, the script searches wordfreq_ck for several simple and frequent words containing that kanji.  The script then searches for definitions of these words using edict.txt.  An fodg file is created, which is then converted to odg and slightly hand-modified to address spelling and stylistic concerns.
+For your convenience, there are pre-generated sets for grades 1, 2, 3, 4, 5, 6, and JLPT levels N5, N4, N2, and N1 in the subdirectories `grade/` and `jlpt/`.  If those don't meet your needs, you can generate your own files.
+
+The script `cardmaker.rb` produces kanji flashcards, according to either grade level or JLPT level.  Each card has the kanji, grade level, and stroke count on the front, and the back shows the English meaning, onyomi, kunyomi, and some common words containing that kanji.
+
+Running the script produces an `fodg` file which can be opened and in [LibreOffice](https://www.libreoffice.org/).  After minor modifications are complete, print the flashcards out on thick double-sided A4 paper, cut them out, and you can study.
 
 # Copyright
 
