@@ -1,8 +1,6 @@
-Paper flashcards for studying kanji.
+Paper flashcards for studying kanji. There are pre-generated sets for grades 1, 2, 3, 4, 5, 6, and JLPT levels N5, N4, N2, and N1 in the subdirectories `grade/` and `jlpt/`.  If those don't meet your needs, you can generate your own files.
 
-# Description
-
-For your convenience, there are pre-generated sets for grades 1, 2, 3, 4, 5, 6, and JLPT levels N5, N4, N2, and N1 in the subdirectories `grade/` and `jlpt/`.  If those don't meet your needs, you can generate your own files.
+# Generating your own flashcards
 
 The script `cardmaker.rb` produces kanji flashcards, according to either grade level or JLPT level.  Each card has the kanji, grade level, and stroke count on the front, and the back shows the English meaning, onyomi, kunyomi, and some common words containing that kanji.
 
@@ -16,7 +14,7 @@ The script `cardmaker.rb` is licensed under the GPL v3.0.  The resultant flashca
 
 * `edict.txt`. Retrieved 2016-03-18. <http://www.csse.monash.edu.au/~jwb/edict.html>. Copyright by the Electronic Dictionary Research and Development Group. [Creative Commons Share Alike-Attribution 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/).
 	
-* `wordfreq_ck`. Retrieved 2016-03-18. <http://ftp.monash.edu.au/pub/nihongo/00INDEX.html>. Public domain.
+* `wordfreq_ck.txt`. Retrieved 2016-03-18. <http://ftp.monash.edu.au/pub/nihongo/00INDEX.html>. Public domain.
 
 # Contact
 
