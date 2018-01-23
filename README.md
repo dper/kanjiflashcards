@@ -20,6 +20,5 @@ The script `cardmaker.rb` is licensed under the GPL v3.0.  The resultant flashca
 
 If you have any questions or comments, feel free to contact the author, Douglas Perkins.
 
-* <https://dperkins.org/arc/2011-03-22.kanji%20flashcards.html>
-* <https://identi.ca/dper/>
+* <https://dperkins.org/>
 * <https://twitter.com/dpp0>
